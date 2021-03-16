@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FallPeople",
+			"Path": "C:\\Users\\D.GEROUVILLE\\Desktop\\dossier de projets UE\\FallPeople\\Source\\FallPeople.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FallPeopleEditor",
+			"Path": "C:\\Users\\D.GEROUVILLE\\Desktop\\dossier de projets UE\\FallPeople\\Source\\FallPeopleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

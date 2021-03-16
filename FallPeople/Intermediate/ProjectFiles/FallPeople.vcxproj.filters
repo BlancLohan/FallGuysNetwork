@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FallPeople.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A0032206-A664-4044-B783-BECD3BCFC099}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FallPeople.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FallPeopleEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FEA93939-28C2-4931-BE7A-938B0CD0FD4B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FallPeople">
+      <UniqueIdentifier>{76FE603D-F461-4848-877A-95440A983EE0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FallPeople\FallPeople.Build.cs">
+      <Filter>Source\FallPeople</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FallPeople\FallPeople.cpp">
+      <Filter>Source\FallPeople</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FallPeople\FallPeople.h">
+      <Filter>Source\FallPeople</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FallPeople\FallPeopleGameModeBase.cpp">
+      <Filter>Source\FallPeople</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FallPeople\FallPeopleGameModeBase.h">
+      <Filter>Source\FallPeople</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
