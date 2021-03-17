@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProjetFallGuys",
+			"Path": "C:\\Users\\L.Blanc\\Documents\\GitHub\\ProjetReseauFALLGUYS\\ProjetFallGuys\\Source\\ProjetFallGuys.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProjetFallGuysEditor",
+			"Path": "C:\\Users\\L.Blanc\\Documents\\GitHub\\ProjetReseauFALLGUYS\\ProjetFallGuys\\Source\\ProjetFallGuysEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjetFallGuys.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4CE78F7E-21BA-430E-8635-54590B41FFBE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjetFallGuys.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjetFallGuysEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D9990F4F-52E0-479A-B829-8A8B5798D9AA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProjetFallGuys">
+      <UniqueIdentifier>{15D51B87-63BA-4B32-A90A-3A1194A5AC6F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjetFallGuys\ProjetFallGuys.Build.cs">
+      <Filter>Source\ProjetFallGuys</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjetFallGuys\ProjetFallGuys.cpp">
+      <Filter>Source\ProjetFallGuys</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetFallGuys\ProjetFallGuys.h">
+      <Filter>Source\ProjetFallGuys</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjetFallGuys\ProjetFallGuysCharacter.cpp">
+      <Filter>Source\ProjetFallGuys</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetFallGuys\ProjetFallGuysCharacter.h">
+      <Filter>Source\ProjetFallGuys</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjetFallGuys\ProjetFallGuysGameMode.cpp">
+      <Filter>Source\ProjetFallGuys</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetFallGuys\ProjetFallGuysGameMode.h">
+      <Filter>Source\ProjetFallGuys</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
