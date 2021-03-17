@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\L.Blanc\\Documents\\GitHub\\ProjetReseauFALLGUYS\\ProjetFallGuys\\Source\\ProjetFallGuys\\ProjetFallGuys.Build.cs",
-		"C:\\Users\\L.Blanc\\Documents\\GitHub\\ProjetReseauFALLGUYS\\ProjetFallGuys\\Source\\ProjetFallGuys.Target.cs",
-		"C:\\Users\\L.Blanc\\Documents\\GitHub\\ProjetReseauFALLGUYS\\ProjetFallGuys\\Source\\ProjetFallGuysEditor.Target.cs"
+		"C:\\Users\\B.Gerard\\Documents\\Unreal Projects\\Project Divers\\ProjetReseau_2\\FallGuysNetwork\\ProjetFallGuys\\Source\\ProjetFallGuys\\ProjetFallGuys.Build.cs",
+		"C:\\Users\\B.Gerard\\Documents\\Unreal Projects\\Project Divers\\ProjetReseau_2\\FallGuysNetwork\\ProjetFallGuys\\Source\\ProjetFallGuys.Target.cs",
+		"C:\\Users\\B.Gerard\\Documents\\Unreal Projects\\Project Divers\\ProjetReseau_2\\FallGuysNetwork\\ProjetFallGuys\\Source\\ProjetFallGuysEditor.Target.cs"
 	],
 	"EngineVersion": "4.25.4"
 }

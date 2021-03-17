@@ -1,2 +1,2 @@
-C:\Users\L.Blanc\Documents\GitHub\ProjetReseauFALLGUYS\ProjetFallGuys\Intermediate\Build\Win64\UE4Editor\Development\ProjetFallGuys\Definitions.ProjetFallGuys.h
-C:\Users\L.Blanc\Documents\GitHub\ProjetReseauFALLGUYS\ProjetFallGuys\Source\ProjetFallGuys\ProjetFallGuys.h
+C:\Users\B.Gerard\Documents\Unreal Projects\Project Divers\ProjetReseau_2\FallGuysNetwork\ProjetFallGuys\Intermediate\Build\Win64\UE4Editor\Development\ProjetFallGuys\Definitions.ProjetFallGuys.h
+C:\Users\B.Gerard\Documents\Unreal Projects\Project Divers\ProjetReseau_2\FallGuysNetwork\ProjetFallGuys\Source\ProjetFallGuys\ProjetFallGuys.h
