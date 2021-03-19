@@ -30,8 +30,8 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\L.Blanc\Documents\GitHub\ProjetReseauFALLGUYS\ProjetFallGuys\Intermediate\Build\Win64\UE4\Inc\ProjetFallGuys
-/I C:\Users\L.Blanc\Documents\GitHub\ProjetReseauFALLGUYS\ProjetFallGuys\Source
+/I C:\Users\D.GEROUVILLE\Documents\GitHub\FallGuysNetwork\ProjetFallGuys\Intermediate\Build\Win64\UE4\Inc\ProjetFallGuys
+/I C:\Users\D.GEROUVILLE\Documents\GitHub\FallGuysNetwork\ProjetFallGuys\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -149,19 +149,19 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
 /D_HAS_EXCEPTIONS=0
 /D_HAS_EXCEPTIONS=0
-/FI"C:\Users\L.Blanc\Documents\GitHub\ProjetReseauFALLGUYS\ProjetFallGuys\Intermediate\Build\Win64\ProjetFallGuys\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\L.Blanc\Documents\GitHub\ProjetReseauFALLGUYS\ProjetFallGuys\Intermediate\Build\Win64\ProjetFallGuys\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\L.Blanc\Documents\GitHub\ProjetReseauFALLGUYS\ProjetFallGuys\Intermediate\Build\Win64\ProjetFallGuys\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\L.Blanc\Documents\GitHub\ProjetReseauFALLGUYS\ProjetFallGuys\Intermediate\Build\Win64\UE4\Inc\ProjetFallGuys\ProjetFallGuysCharacter.gen.cpp"
-/FI"C:\Users\L.Blanc\Documents\GitHub\ProjetReseauFALLGUYS\ProjetFallGuys\Intermediate\Build\Win64\UE4\Development\ProjetFallGuys\Definitions.ProjetFallGuys.h"
-/Fo"C:\Users\L.Blanc\Documents\GitHub\ProjetReseauFALLGUYS\ProjetFallGuys\Intermediate\Build\Win64\UE4\Development\ProjetFallGuys\ProjetFallGuysCharacter.gen.cpp.obj"
+/FI"C:\Users\D.GEROUVILLE\Documents\GitHub\FallGuysNetwork\ProjetFallGuys\Intermediate\Build\Win64\ProjetFallGuys\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\D.GEROUVILLE\Documents\GitHub\FallGuysNetwork\ProjetFallGuys\Intermediate\Build\Win64\ProjetFallGuys\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\D.GEROUVILLE\Documents\GitHub\FallGuysNetwork\ProjetFallGuys\Intermediate\Build\Win64\ProjetFallGuys\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\D.GEROUVILLE\Documents\GitHub\FallGuysNetwork\ProjetFallGuys\Intermediate\Build\Win64\UE4\Inc\ProjetFallGuys\ProjetFallGuysCharacter.gen.cpp"
+/FI"C:\Users\D.GEROUVILLE\Documents\GitHub\FallGuysNetwork\ProjetFallGuys\Intermediate\Build\Win64\UE4\Development\ProjetFallGuys\Definitions.ProjetFallGuys.h"
+/Fo"C:\Users\D.GEROUVILLE\Documents\GitHub\FallGuysNetwork\ProjetFallGuys\Intermediate\Build\Win64\UE4\Development\ProjetFallGuys\ProjetFallGuysCharacter.gen.cpp.obj"
 /TP
 /GR-
 /W4
