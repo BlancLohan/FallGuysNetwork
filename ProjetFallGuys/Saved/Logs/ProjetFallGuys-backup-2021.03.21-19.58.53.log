@@ -1,0 +1,1054 @@
+﻿Log file open, 03/21/21 20:57:50
+LogInit: Display: Running engine for game: ProjetFallGuys
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.201511
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.21-19.57.50:401][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.21-19.57.50:401][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.21-19.57.50:401][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Engine.ini]
+[2021.03.21-19.57.50:401][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.21-19.57.50:401][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Engine.ini]
+[2021.03.21-19.57.50:401][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Engine.ini]
+[2021.03.21-19.57.50:401][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.21-19.57.50:401][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.21-19.57.50:401][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.21-19.57.50:401][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.21-19.57.50:401][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Engine.ini]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.21-19.57.50:402][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Engine.ini]
+[2021.03.21-19.57.50:402][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Engine.ini]
+[2021.03.21-19.57.50:404][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Scalability.ini]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Scalability.ini]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Scalability.ini]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Scalability.ini]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.21-19.57.50:404][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Scalability.ini]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Scalability.ini]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Scalability.ini]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Scalability.ini]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.21-19.57.50:405][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.21-19.57.50:405][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.21-19.57.50:405][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.21-19.57.50:405][  0]LogHAL: Display: Platform has ~ 16 GB [17127018496 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.21-19.57.50:406][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.21-19.57.50:406][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Scalability.ini]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Scalability.ini]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Scalability.ini]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Scalability.ini]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Scalability.ini]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Scalability.ini]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.21-19.57.50:406][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Scalability.ini]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Scalability.ini]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.21-19.57.50:407][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Config/Windows/Engine.ini]
+[2021.03.21-19.57.50:407][  0]LogInit: Computer: DESKTOP-VCN79RN
+[2021.03.21-19.57.50:407][  0]LogInit: User: brend
+[2021.03.21-19.57.50:407][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.03.21-19.57.50:407][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.21-19.57.50:408][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.03.21-19.57.50:408][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.21-19.57.50:408][  0]LogMemory: Process Physical Memory: 115.95 MB used, 115.96 MB peak
+[2021.03.21-19.57.50:408][  0]LogMemory: Process Virtual Memory: 98.96 MB used, 98.96 MB peak
+[2021.03.21-19.57.50:408][  0]LogMemory: Physical Memory: 4398.19 MB used,  11935.41 MB free, 16333.60 MB total
+[2021.03.21-19.57.50:408][  0]LogMemory: Virtual Memory: 5166.97 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2021.03.21-19.57.50:413][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.21-19.57.50:459][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.21-19.57.50:463][  0]LogInit: Using OS detected language (fr-FR).
+[2021.03.21-19.57.50:463][  0]LogInit: Using OS detected locale (fr-FR).
+[2021.03.21-19.57.50:471][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2021.03.21-19.57.50:472][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2021.03.21-19.57.50:472][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2021.03.21-19.57.50:472][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2021.03.21-19.57.50:472][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2021.03.21-19.57.50:472][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2021.03.21-19.57.50:472][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2021.03.21-19.57.50:472][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2021.03.21-19.57.50:473][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.21-19.57.50:510][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.21-19.57.50:510][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.21-19.57.50:670][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.21-19.57.50:670][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.21-19.57.50:670][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.21-19.57.50:670][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.21-19.57.50:778][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.03.21-19.57.50:778][  0]LogD3D11RHI:       5967/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.03.21-19.57.50:780][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.21-19.57.50:780][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.21-19.57.50:780][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.21-19.57.50:787][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.21-19.57.50:787][  0]LogD3D11RHI:     GPU DeviceId: 0x1e89 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.21-19.57.50:787][  0]LogWindows: EnumDisplayDevices:
+[2021.03.21-19.57.50:787][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2021.03.21-19.57.50:787][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.03.21-19.57.50:787][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.03.21-19.57.50:788][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.03.21-19.57.50:788][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.21-19.57.50:788][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.03.21-19.57.50:788][  0]LogD3D11RHI:   Driver Version: 461.09 (internal:27.21.14.6109, unified:461.09)
+[2021.03.21-19.57.50:788][  0]LogD3D11RHI:      Driver Date: 12-31-2020
+[2021.03.21-19.57.50:788][  0]LogRHI: Texture pool is 4176 MB (70% of 5967 MB)
+[2021.03.21-19.57.50:865][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.21-19.57.50:865][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.21-19.57.50:865][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.21-19.57.50:881][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.21-19.57.51:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.21-19.57.51:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.21-19.57.51:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.21-19.57.51:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.21-19.57.51:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.21-19.57.51:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.21-19.57.51:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.21-19.57.51:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.21-19.57.51:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.21-19.57.51:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.21-19.57.51:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.21-19.57.51:347][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.21-19.57.51:347][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.21-19.57.51:359][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.21-19.57.51:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.21-19.57.51:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.21-19.57.51:390][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.21-19.57.51:400][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.21-19.57.51:410][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.21-19.57.51:420][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.21-19.57.51:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.21-19.57.51:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.21-19.57.51:467][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.21-19.57.51:467][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.21-19.57.51:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.21-19.57.51:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.21-19.57.51:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.21-19.57.51:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.21-19.57.51:508][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.21-19.57.51:516][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.21-19.57.51:577][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Intermediate/Shaders/WorkingDirectory/5496/).
+[2021.03.21-19.57.51:577][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/brend/AppData/Local/Temp/UnrealShaderWorkingDir/786C4B2C4580954CD3F025895CE35695/'.
+[2021.03.21-19.57.51:577][  0]LogXGEController: Cleaning working directory: C:/Users/brend/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.03.21-19.57.51:578][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.03.21-19.57.51:578][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.21-19.57.51:578][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.21-19.57.53:238][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.21-19.57.53:468][  0]LogDerivedDataCache: Loaded boot cache 0.23s 79MB C:/Users/brend/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.03.21-19.57.53:468][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/brend/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.03.21-19.57.53:468][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.21-19.57.53:468][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.21-19.57.53:468][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.21-19.57.53:468][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.21-19.57.53:479][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.21-19.57.53:479][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.21-19.57.53:479][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.21-19.57.53:481][  0]LogDerivedDataCache: Using Local data cache path C:/Users/brend/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.21-19.57.53:481][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.21-19.57.53:481][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.21-19.57.53:533][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.21-19.57.53:533][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.21-19.57.53:692][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2021.03.21-19.57.53:931][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.21-19.57.54:037][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.21-19.57.54:037][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.21-19.57.54:037][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.21-19.57.54:037][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.21-19.57.54:037][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.21-19.57.54:051][  0]LogNetVersion: ProjetFallGuys 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3296763266)
+[2021.03.21-19.58.03:150][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000219DA7D53C0), frame # 0
+[2021.03.21-19.58.03:150][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000219DA67AAC0), frame # 0
+[2021.03.21-19.58.03:152][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000219DA7EE600), frame # 0
+[2021.03.21-19.58.03:220][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.061760 seconds
+[2021.03.21-19.58.03:225][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.03.21-19.58.03:225][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.03.21-19.58.03:225][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.21-19.58.04:031][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.21-19.58.04:035][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.21-19.58.04:262][  0]SourceControl: Source control is disabled
+[2021.03.21-19.58.04:262][  0]SourceControl: Source control is disabled
+[2021.03.21-19.58.04:265][  0]SourceControl: Source control is disabled
+[2021.03.21-19.58.04:268][  0]SourceControl: Source control is disabled
+[2021.03.21-19.58.04:288][  0]SourceControl: Source control is disabled
+[2021.03.21-19.58.04:798][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.21-19.58.04:818][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.21-19.58.04:818][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.21-19.58.04:869][  0]LogOcInput: OculusInput pre-init called
+[2021.03.21-19.58.04:880][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.21-19.58.04:880][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.21-19.58.04:956][  0]LogEngine: Initializing Engine...
+[2021.03.21-19.58.04:957][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.21-19.58.04:957][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.21-19.58.04:958][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.21-19.58.05:090][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.21-19.58.05:097][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.21-19.58.05:097][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000219E1F3BC00), frame # 0
+[2021.03.21-19.58.05:097][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000219E1F4F380), frame # 0
+[2021.03.21-19.58.05:101][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.21-19.58.05:101][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.21-19.58.05:101][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.21-19.58.05:101][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.21-19.58.05:101][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.21-19.58.05:101][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.21-19.58.05:101][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.21-19.58.05:101][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.21-19.58.05:102][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.21-19.58.05:102][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.21-19.58.05:130][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.21-19.58.05:130][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.21-19.58.05:178][  0]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.03.21-19.58.05:179][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.21-19.58.05:181][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.21-19.58.05:181][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.21-19.58.05:182][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.21-19.58.05:183][  0]LogInit: FAudioDevice initialized.
+[2021.03.21-19.58.05:183][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.21-19.58.05:380][  0]LogDerivedDataCache: Saved boot cache 0.20s 79MB C:/Users/brend/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.03.21-19.58.05:386][  0]LogInit: Texture streaming: Enabled
+[2021.03.21-19.58.05:427][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.21-19.58.05:428][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={691B8103-41B1-16C7-3749-669B37F626C4}
+[2021.03.21-19.58.05:428][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.21-19.58.05:448][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.21-19.58.05:533][  0]LogInit: Transaction tracking system initialized
+[2021.03.21-19.58.05:556][  0]BlueprintLog: New page: Editor Load
+[2021.03.21-19.58.05:631][  0]LocalizationService: Localization service is disabled
+[2021.03.21-19.58.05:868][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.03.21-19.58.05:868][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.21-19.58.06:545][  0]LogFileCache: Scanning file cache for directory 'C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Content/' took 0.01s
+[2021.03.21-19.58.07:240][  0]SourceControl: Source control is disabled
+[2021.03.21-19.58.07:240][  0]LogUnrealEdMisc: Loading editor; pre map load, took 21.097
+[2021.03.21-19.58.07:240][  0]Cmd: MAP LOAD FILE="../../../../../../Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Content/Project/Maps/FootballMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.21-19.58.07:240][  0]LightingResults: New page: Lighting Build
+[2021.03.21-19.58.07:241][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.21-19.58.07:241][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.21-19.58.07:241][  0]MapCheck: New page: Map Check
+[2021.03.21-19.58.07:241][  0]LightingResults: New page: Lighting Build
+[2021.03.21-19.58.07:267][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000219E1F3BC00), frame # 0
+[2021.03.21-19.58.07:267][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000219E1F4F380), frame # 0
+[2021.03.21-19.58.07:268][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.03.21-19.58.07:509][  0]LogLinker: Warning: While loading '../../../../../../Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Content/Project/Maps/FootballMap.umap' failed to load '/Game/Project/Maps/FootballMap_BuiltData': Can't find file.
+[2021.03.21-19.58.07:509][  0]LogLinker: Warning: While loading '../../../../../../Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Content/Project/Maps/FootballMap.umap' failed to load '/Game/Project/Maps/FootballMap_BuiltData': Can't find file.
+[2021.03.21-19.58.07:514][  0]LogLinker: Warning: While loading '../../../../../../Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Content/Project/Maps/FootballMap.umap' failed to load '/Game/Project/Maps/FootballMap_BuiltData': Can't find file.
+[2021.03.21-19.58.07:514][  0]LogLinker: Warning: While loading '../../../../../../Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Content/Project/Maps/FootballMap.umap' failed to load '/Game/Project/Maps/FootballMap_BuiltData': Can't find file.
+[2021.03.21-19.58.07:642][  0]LogLinker: Warning: While loading '../../../../../../Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Content/Project/Maps/FootballMap.umap' failed to load '/Game/Project/Maps/FootballMap_BuiltData': Can't find file.
+[2021.03.21-19.58.07:642][  0]LoadErrors: Failed to load /Game/Project/Maps/FootballMap_BuiltData.FootballMap_BuiltData Referenced by PersistentLevel
+[2021.03.21-19.58.07:642][  0]LogLinker: Warning: While loading '../../../../../../Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Content/Project/Maps/FootballMap.umap' failed to load '/Game/Project/Maps/FootballMap_BuiltData': Can't find file.
+[2021.03.21-19.58.07:642][  0]LoadErrors: Failed to load /Game/Project/Maps/FootballMap_BuiltData.FootballMap_BuiltData Referenced by PersistentLevel
+[2021.03.21-19.58.07:768][  0]LogNiagaraEditor: Verbose: '/Game/Project/VFX/GoalExplosionGlow_System' Precompile took 0.010285 sec.
+[2021.03.21-19.58.07:776][  0]LogNiagara: Compiling System NiagaraSystem /Game/Project/VFX/GoalExplosionGlow_System.GoalExplosionGlow_System took 0.051380 sec (overall compilation time), 0.000000 sec (combined shader worker time).
+[2021.03.21-19.58.07:808][  0]LogAIModule: Creating AISystem for world FootballMap
+[2021.03.21-19.58.07:808][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000219E51E4A00), frame # 0
+[2021.03.21-19.58.07:808][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000219E540D940), frame # 0
+[2021.03.21-19.58.07:815][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.21-19.58.07:834][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.03.21-19.58.07:834][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.21-19.58.07:835][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,227ms to complete.
+[2021.03.21-19.58.07:835][  0]LogFileHelpers: Loading map 'FootballMap' took 0.596
+[2021.03.21-19.58.07:837][  0]LogUnrealEdMisc: Total Editor Startup Time, took 21.695
+[2021.03.21-19.58.07:979][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.21-19.58.07:986][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.21-19.58.07:993][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.21-19.58.08:000][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.21-19.58.08:007][  0]LogCollectionManager: Loaded 0 collections in 0.002199 seconds
+[2021.03.21-19.58.08:022][  0]LogFileCache: Scanning file cache for directory 'C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Saved/Collections/' took 0.00s
+[2021.03.21-19.58.08:022][  0]LogFileCache: Scanning file cache for directory 'C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Content/Developers/brend/Collections/' took 0.00s
+[2021.03.21-19.58.08:022][  0]LogFileCache: Scanning file cache for directory 'C:/Users/brend/Documents/Programmation/FallGuysNetwork/ProjetFallGuys/Content/Collections/' took 0.00s
+[2021.03.21-19.58.08:022][  0]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 3429 classes and 823 folders.
+[2021.03.21-19.58.08:026][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.03.21-19.58.08:572][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.03.21-19.58.08:577][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.03.21-19.58.08:687][  0]LogSlate: Took 0.000382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.21-19.58.08:689][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.21-19.58.08:719][  0]LogSlate: Took 0.025393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.21-19.58.08:774][  0]LogRenderer: Reallocating scene render targets to support 1044x552 Format 10 NumSamples 1 (Frame:1).
+[2021.03.21-19.58.08:840][  0]LogSlate: Took 0.015835 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.21-19.58.08:882][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.03.21-19.58.08:882][  0]LogLoad: (Engine Initialization) Total time: 22.74 seconds
+[2021.03.21-19.58.08:882][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.21-19.58.09:083][  0]LogAssetRegistry: Asset discovery search completed in 15.3909 seconds
+[2021.03.21-19.58.09:086][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.03.21-19.58.09:088][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.21-19.58.09:107][  0]LogSlate: Took 0.008792 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.21-19.58.09:911][ 94]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.21-19.58.11:247][207]LogRenderer: Reallocating scene render targets to support 1044x568 Format 10 NumSamples 1 (Frame:2).
+[2021.03.21-19.58.17:139][867]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.21-19.58.17:163][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.21-19.58.17:163][867]PIE: New page: PIE session: FootballMap (21 mars 2021 à 21:58:17)
+[2021.03.21-19.58.17:164][867]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.21-19.58.17:165][867]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.21-19.58.17:165][867]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_FootballMap
+[2021.03.21-19.58.17:172][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007329s)
+[2021.03.21-19.58.17:173][867]LogAIModule: Creating AISystem for world FootballMap
+[2021.03.21-19.58.17:173][867]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002198A9A6000), frame # 867
+[2021.03.21-19.58.17:173][867]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000219E518E200), frame # 867
+[2021.03.21-19.58.17:174][867]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2021.03.21-19.58.17:174][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/FootballMap.FootballMap to /Game/Project/Maps/UEDPIE_0_FootballMap.FootballMap (0.008835s)
+[2021.03.21-19.58.17:191][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.03.21-19.58.17:193][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.21-19.58.17:193][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.21-19.58.17:193][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.21-19.58.17:193][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.21-19.58.17:193][867]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.21-19.58.17:193][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.21-19.58.17:193][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.21-19.58.17:193][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.21-19.58.17:194][867]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.21-19.58.17:194][867]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.21-19.58.17:201][867]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.21-19.58.17:201][867]LogAudioMixer: Display: 1: FrontRight
+[2021.03.21-19.58.17:228][867]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.03.21-19.58.17:228][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.21-19.58.17:228][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.21-19.58.17:228][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.21-19.58.17:229][867]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.21-19.58.17:241][867]LogInit: FAudioDevice initialized.
+[2021.03.21-19.58.17:246][867]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.03.21-19.58.17:249][867]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_FootballMap.FootballMap up for play (max tick rate 0) at 2021.03.21-20.58.17
+[2021.03.21-19.58.17:249][867]LogWorld: Bringing up level for play took: 0.001790
+[2021.03.21-19.58.17:249][867]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.03.21-19.58.17:252][867]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.03.21-19.58.17:254][867]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.03.21-19.58.17:254][867]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.03.21-19.58.17:254][867]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.03.21-19.58.17:254][867]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.03.21-19.58.17:254][867]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.21-19.58.17:254][867]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2021.03.21-19.58.17:256][867]PIE: Server logged in
+[2021.03.21-19.58.17:257][867]PIE: Play in editor total start time 0,095 seconds.
+[2021.03.21-19.58.17:258][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.21-19.58.17:258][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.21-19.58.17:258][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.21-19.58.17:258][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.21-19.58.17:258][867]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.21-19.58.17:258][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.21-19.58.17:258][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.21-19.58.17:258][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.21-19.58.17:259][867]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.21-19.58.17:259][867]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.21-19.58.17:266][867]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.21-19.58.17:266][867]LogAudioMixer: Display: 1: FrontRight
+[2021.03.21-19.58.17:287][867]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.03.21-19.58.17:287][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.21-19.58.17:287][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.21-19.58.17:287][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.21-19.58.17:288][867]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.21-19.58.17:300][867]LogInit: FAudioDevice initialized.
+[2021.03.21-19.58.17:346][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.21-19.58.17:346][867]LogNet: Browse: 127.0.0.1:17777/Game/Project/Maps/FootballMap
+[2021.03.21-19.58.17:346][867]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.03.21-19.58.17:347][867]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.03.21-19.58.17:347][867]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.21-19.58.17:347][867]LogNet: Game client on port 17777, rate 10000
+[2021.03.21-19.58.17:349][867]PIE: Client logged in
+[2021.03.21-19.58.17:350][867]PIE: Play in editor total start time 0,188 seconds.
+[2021.03.21-19.58.17:351][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.21-19.58.17:351][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.21-19.58.17:351][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.21-19.58.17:351][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.21-19.58.17:351][867]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.21-19.58.17:351][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.21-19.58.17:351][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.21-19.58.17:351][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.21-19.58.17:352][867]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.21-19.58.17:352][867]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.21-19.58.17:360][867]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.21-19.58.17:360][867]LogAudioMixer: Display: 1: FrontRight
+[2021.03.21-19.58.17:382][867]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.03.21-19.58.17:382][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.21-19.58.17:382][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.21-19.58.17:382][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.21-19.58.17:384][867]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.21-19.58.17:396][867]LogInit: FAudioDevice initialized.
+[2021.03.21-19.58.17:440][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.21-19.58.17:440][867]LogNet: Browse: 127.0.0.1:17777/Game/Project/Maps/FootballMap
+[2021.03.21-19.58.17:440][867]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.03.21-19.58.17:441][867]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.03.21-19.58.17:441][867]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.21-19.58.17:441][867]LogNet: Game client on port 17777, rate 10000
+[2021.03.21-19.58.17:442][867]PIE: Client logged in
+[2021.03.21-19.58.17:443][867]PIE: Play in editor total start time 0,282 seconds.
+[2021.03.21-19.58.17:647][886]LogBlueprintUserMessages: [Widget_Lobby_C_0] Server: Set Lobby ins
+[2021.03.21-19.58.18:367][972]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64712
+[2021.03.21-19.58.18:367][972]LogHandshake: SendConnectChallenge. Timestamp: 1.236817, Cookie: 125134060151126184076237248203155074183063025165183015228064
+[2021.03.21-19.58.18:368][972]LogHandshake: SendChallengeResponse. Timestamp: 1.236817, Cookie: 125134060151126184076237248203155074183063025165183015228064
+[2021.03.21-19.58.18:375][973]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64712
+[2021.03.21-19.58.18:375][973]LogHandshake: SendChallengeAck. InCookie: 125134060151126184076237248203155074183063025165183015228064
+[2021.03.21-19.58.18:375][973]LogNet: Server accepting post-challenge connection from: 127.0.0.1:64712
+[2021.03.21-19.58.18:376][973]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.21-19.58.18:376][973]LogNet: NotifyAcceptedConnection: Name: FootballMap, TimeStamp: 03/21/21 20:58:18, [UNetConnection] RemoteAddr: 127.0.0.1:64712, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.21-19.58.18:376][973]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:64712, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.21-19.58.18:377][973]LogNetVersion: ProjetFallGuys 1.0.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2348817915)
+[2021.03.21-19.58.18:377][973]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.21-19.58.18:384][974]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Project/Maps/UEDPIE_0_FootballMap.FootballMap: Accepted
+[2021.03.21-19.58.18:384][974]LogNet: Remote platform little endian=1
+[2021.03.21-19.58.18:384][974]LogNet: This platform little endian=1
+[2021.03.21-19.58.18:384][974]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.03.21-19.58.18:392][975]LogNet: Login request: ?Name=DESKTOP-VCN79RN-66D3D89541C3F73409140BB1B48D6684 userId: NULL:DESKTOP-VCN79RN-66D3D89541C3F73409140BB1B48D6684 platform: NULL
+[2021.03.21-19.58.18:393][975]LogNet: Welcomed by server (Level: /Game/Project/Maps/UEDPIE_0_FootballMap, Game: /Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C)
+[2021.03.21-19.58.18:393][975]LogLoad: LoadMap: 127.0.0.1:17777/Game/Project/Maps/UEDPIE_0_FootballMap?game=/Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C
+[2021.03.21-19.58.18:393][975]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2021.03.21-19.58.18:393][975]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.21-19.58.18:393][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.21-19.58.18:409][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.03.21-19.58.18:420][975]LogAIModule: Creating AISystem for world FootballMap
+[2021.03.21-19.58.18:420][975]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002198AC76A00), frame # 975
+[2021.03.21-19.58.18:420][975]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000219D4EF4CC0), frame # 975
+[2021.03.21-19.58.18:421][975]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_1_FootballMap.FootballMap up for play (max tick rate 0) at 2021.03.21-20.58.18
+[2021.03.21-19.58.18:422][975]LogWorld: Bringing up level for play took: 0.001006
+[2021.03.21-19.58.18:422][975]LogLoad: Took 0.028865 seconds to LoadMap(/Game/Project/Maps/UEDPIE_0_FootballMap)
+[2021.03.21-19.58.18:428][976]LogNet: Client netspeed is 10000
+[2021.03.21-19.58.18:428][976]LogNet: Join request: /Game/Project/Maps/FootballMap?Name=DESKTOP-VCN79RN-66D3D89541C3F73409140BB1B48D6684?SplitscreenCount=1
+[2021.03.21-19.58.18:428][976]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.21-19.58.18:430][976]LogNet: Join succeeded: DESKTOP-VCN79RN-66D3
+[2021.03.21-19.58.18:464][978]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64713
+[2021.03.21-19.58.18:464][978]LogHandshake: SendConnectChallenge. Timestamp: 1.333386, Cookie: 149187028238168089160016201017005020222012143053196103192248
+[2021.03.21-19.58.18:465][978]LogHandshake: SendChallengeResponse. Timestamp: 1.333386, Cookie: 149187028238168089160016201017005020222012143053196103192248
+[2021.03.21-19.58.18:472][979]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64713
+[2021.03.21-19.58.18:472][979]LogHandshake: SendChallengeAck. InCookie: 149187028238168089160016201017005020222012143053196103192248
+[2021.03.21-19.58.18:472][979]LogNet: Server accepting post-challenge connection from: 127.0.0.1:64713
+[2021.03.21-19.58.18:472][979]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.21-19.58.18:472][979]LogNet: NotifyAcceptedConnection: Name: FootballMap, TimeStamp: 03/21/21 20:58:18, [UNetConnection] RemoteAddr: 127.0.0.1:64713, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.21-19.58.18:472][979]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:64713, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.21-19.58.18:474][979]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.21-19.58.18:480][980]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Project/Maps/UEDPIE_0_FootballMap.FootballMap: Accepted
+[2021.03.21-19.58.18:480][980]LogNet: Remote platform little endian=1
+[2021.03.21-19.58.18:480][980]LogNet: This platform little endian=1
+[2021.03.21-19.58.18:481][980]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.03.21-19.58.18:488][981]LogNet: Login request: ?Name=DESKTOP-VCN79RN-125DE0694DA3AF50ADDE26BF0942B17D userId: NULL:DESKTOP-VCN79RN-125DE0694DA3AF50ADDE26BF0942B17D platform: NULL
+[2021.03.21-19.58.18:489][981]LogNet: Welcomed by server (Level: /Game/Project/Maps/UEDPIE_0_FootballMap, Game: /Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C)
+[2021.03.21-19.58.18:489][981]LogLoad: LoadMap: 127.0.0.1:17777/Game/Project/Maps/UEDPIE_0_FootballMap?game=/Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C
+[2021.03.21-19.58.18:489][981]LogWorld: BeginTearingDown for /Temp/Untitled_2
+[2021.03.21-19.58.18:489][981]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.21-19.58.18:490][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.21-19.58.18:506][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.03.21-19.58.18:516][981]LogAIModule: Creating AISystem for world FootballMap
+[2021.03.21-19.58.18:516][981]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000219EB267C00), frame # 981
+[2021.03.21-19.58.18:516][981]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000219D1601BC0), frame # 981
+[2021.03.21-19.58.18:518][981]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_2_FootballMap.FootballMap up for play (max tick rate 0) at 2021.03.21-20.58.18
+[2021.03.21-19.58.18:518][981]LogWorld: Bringing up level for play took: 0.001013
+[2021.03.21-19.58.18:518][981]LogLoad: Took 0.028713 seconds to LoadMap(/Game/Project/Maps/UEDPIE_0_FootballMap)
+[2021.03.21-19.58.18:527][982]LogNet: Client netspeed is 10000
+[2021.03.21-19.58.18:527][982]LogNet: Join request: /Game/Project/Maps/FootballMap?Name=DESKTOP-VCN79RN-125DE0694DA3AF50ADDE26BF0942B17D?SplitscreenCount=1
+[2021.03.21-19.58.18:528][982]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.21-19.58.18:529][982]LogNet: Join succeeded: DESKTOP-VCN79RN-125D
+[2021.03.21-19.58.18:654][992]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.21-19.58.18:851][  8]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.21-19.58.19:204][ 40]LogBlueprintUserMessages: [Widget_Lobby_C_0] Client 0: Set Lobby ins
+[2021.03.21-19.58.19:294][ 48]LogBlueprintUserMessages: [Widget_Lobby_C_0] Client 1: Set Lobby ins
+[2021.03.21-19.58.19:440][ 61]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.21-19.58.19:440][ 61]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.21-19.58.19:464][ 63]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.21-19.58.19:464][ 63]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.21-19.58.21:404][231]LogBlueprintUserMessages: [BP_LobbyGameInstance_C_0] Server: Online Session Create
+[2021.03.21-19.58.21:405][231]LogNet: Browse: /Game/Project/Maps/FootballMap?listen
+[2021.03.21-19.58.21:405][231]LogLoad: LoadMap: /Game/Project/Maps/FootballMap?listen
+[2021.03.21-19.58.21:405][231]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_0_FootballMap
+[2021.03.21-19.58.21:405][231]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2021.03.21-19.58.21:405][231]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2021.03.21-19.58.21:406][231]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:64713, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-VCN79RN-125DE0694DA3AF50ADDE26BF0942B17D
+[2021.03.21-19.58.21:406][231]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:64713, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-VCN79RN-125DE0694DA3AF50ADDE26BF0942B17D, Channels: 11, Time: 2021.03.21-19.58.21
+[2021.03.21-19.58.21:406][231]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:64713, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-VCN79RN-125DE0694DA3AF50ADDE26BF0942B17D
+[2021.03.21-19.58.21:406][231]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:64712, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-VCN79RN-66D3D89541C3F73409140BB1B48D6684
+[2021.03.21-19.58.21:406][231]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:64712, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-VCN79RN-66D3D89541C3F73409140BB1B48D6684, Channels: 11, Time: 2021.03.21-19.58.21
+[2021.03.21-19.58.21:406][231]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:64712, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-VCN79RN-66D3D89541C3F73409140BB1B48D6684
+[2021.03.21-19.58.21:406][231]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2021.03.21-19.58.21:407][231]LogWorld: UWorld::CleanupWorld for FootballMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.21-19.58.21:407][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.21-19.58.21:462][231]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000219E518E200), frame # 1231
+[2021.03.21-19.58.21:462][231]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002198A9A6000), frame # 1231
+[2021.03.21-19.58.21:463][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.03.21-19.58.21:466][231]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_FootballMap
+[2021.03.21-19.58.21:474][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007284s)
+[2021.03.21-19.58.21:474][231]LogAIModule: Creating AISystem for world FootballMap
+[2021.03.21-19.58.21:474][231]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000219EB0F2200), frame # 1231
+[2021.03.21-19.58.21:474][231]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021981DB6C00), frame # 1231
+[2021.03.21-19.58.21:475][231]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2021.03.21-19.58.21:475][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/FootballMap.FootballMap to /Game/Project/Maps/UEDPIE_0_FootballMap.FootballMap (0.008416s)
+[2021.03.21-19.58.21:475][231]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.03.21-19.58.21:475][231]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.03.21-19.58.21:475][231]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.03.21-19.58.21:475][231]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.03.21-19.58.21:475][231]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.03.21-19.58.21:475][231]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.21-19.58.21:475][231]LogNet: GameNetDriver IpNetDriver_3 IpNetDriver listening on port 7777
+[2021.03.21-19.58.21:477][231]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_FootballMap.FootballMap up for play (max tick rate 0) at 2021.03.21-20.58.21
+[2021.03.21-19.58.21:477][231]LogWorld: Bringing up level for play took: 0.001248
+[2021.03.21-19.58.21:480][231]LogLoad: Took 0.075231 seconds to LoadMap(/Game/Project/Maps/UEDPIE_0_FootballMap)
+[2021.03.21-19.58.21:481][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.21-19.58.21:482][231]LogBlueprintUserMessages: [BP_MainHUD_C_0] Server: Game
+[2021.03.21-19.58.21:482][231]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = FailureReceived, ErrorString = Host closed the connection., Driver = GameNetDriver IpNetDriver_1
+[2021.03.21-19.58.21:482][231]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2021.03.21-19.58.21:482][231]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2021.03.21-19.58.21:482][231]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-VCN79RN-66D3D89541C3F73409140BB1B48D6684, Channels: 11, Time: 2021.03.21-19.58.21
+[2021.03.21-19.58.21:482][231]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-VCN79RN-66D3D89541C3F73409140BB1B48D6684
+[2021.03.21-19.58.21:482][231]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_1
+[2021.03.21-19.58.21:482][231]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = FailureReceived, ErrorString = Host closed the connection., Driver = GameNetDriver IpNetDriver_2
+[2021.03.21-19.58.21:482][231]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-VCN79RN-125DE0694DA3AF50ADDE26BF0942B17D, Channels: 11, Time: 2021.03.21-19.58.21
+[2021.03.21-19.58.21:482][231]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-VCN79RN-125DE0694DA3AF50ADDE26BF0942B17D
+[2021.03.21-19.58.21:482][231]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_2
+[2021.03.21-19.58.21:490][232]LogNet: Browse: /Game/Project/Maps/FootballMap?closed
+[2021.03.21-19.58.21:490][232]LogNet: Connection failed; returning to Entry
+[2021.03.21-19.58.21:490][232]LogLoad: LoadMap: /Game/Project/Maps/FootballMap?closed
+[2021.03.21-19.58.21:490][232]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_1_FootballMap
+[2021.03.21-19.58.21:490][232]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2021.03.21-19.58.21:490][232]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2021.03.21-19.58.21:491][232]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2021.03.21-19.58.21:491][232]LogWorld: UWorld::CleanupWorld for FootballMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.21-19.58.21:491][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.21-19.58.21:516][232]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000219D4EF4CC0), frame # 1232
+[2021.03.21-19.58.21:516][232]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002198AC76A00), frame # 1232
+[2021.03.21-19.58.21:517][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.03.21-19.58.21:519][232]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_1_FootballMap
+[2021.03.21-19.58.21:526][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007328s)
+[2021.03.21-19.58.21:527][232]LogAIModule: Creating AISystem for world FootballMap
+[2021.03.21-19.58.21:527][232]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000219EB391000), frame # 1232
+[2021.03.21-19.58.21:527][232]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000219D163AFC0), frame # 1232
+[2021.03.21-19.58.21:527][232]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2021.03.21-19.58.21:527][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/FootballMap.FootballMap to /Game/Project/Maps/UEDPIE_1_FootballMap.FootballMap (0.008529s)
+[2021.03.21-19.58.21:528][232]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.03.21-19.58.21:529][232]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_1_FootballMap.FootballMap up for play (max tick rate 0) at 2021.03.21-20.58.21
+[2021.03.21-19.58.21:529][232]LogWorld: Bringing up level for play took: 0.001144
+[2021.03.21-19.58.21:532][232]LogLoad: Took 0.041840 seconds to LoadMap(/Game/Project/Maps/UEDPIE_1_FootballMap)
+[2021.03.21-19.58.21:547][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.03.21-19.58.21:548][232]LogNet: Browse: /Game/Project/Maps/FootballMap?closed
+[2021.03.21-19.58.21:548][232]LogNet: Connection failed; returning to Entry
+[2021.03.21-19.58.21:548][232]LogLoad: LoadMap: /Game/Project/Maps/FootballMap?closed
+[2021.03.21-19.58.21:548][232]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_2_FootballMap
+[2021.03.21-19.58.21:548][232]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2021.03.21-19.58.21:548][232]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2021.03.21-19.58.21:549][232]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2021.03.21-19.58.21:549][232]LogWorld: UWorld::CleanupWorld for FootballMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.21-19.58.21:550][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.21-19.58.21:564][232]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000219D1601BC0), frame # 1232
+[2021.03.21-19.58.21:564][232]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000219EB267C00), frame # 1232
+[2021.03.21-19.58.21:565][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.03.21-19.58.21:567][232]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_2_FootballMap
+[2021.03.21-19.58.21:574][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007196s)
+[2021.03.21-19.58.21:575][232]LogAIModule: Creating AISystem for world FootballMap
+[2021.03.21-19.58.21:575][232]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000219EB266C00), frame # 1232
+[2021.03.21-19.58.21:575][232]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000219D163B240), frame # 1232
+[2021.03.21-19.58.21:575][232]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2021.03.21-19.58.21:575][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/FootballMap.FootballMap to /Game/Project/Maps/UEDPIE_2_FootballMap.FootballMap (0.008459s)
+[2021.03.21-19.58.21:575][232]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.03.21-19.58.21:577][232]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_2_FootballMap.FootballMap up for play (max tick rate 0) at 2021.03.21-20.58.21
+[2021.03.21-19.58.21:577][232]LogWorld: Bringing up level for play took: 0.001285
+[2021.03.21-19.58.21:580][232]LogLoad: Took 0.031708 seconds to LoadMap(/Game/Project/Maps/UEDPIE_2_FootballMap)
+[2021.03.21-19.58.21:594][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.03.21-19.58.21:999][268]LogBlueprintUserMessages: [Widget_Lobby_C_1] Set Lobby ins
+[2021.03.21-19.58.21:999][268]LogBlueprintUserMessages: [Widget_Lobby_C_1] Set Lobby ins
+[2021.03.21-19.58.34:956][391]LogBlueprintUserMessages: [Widget_Lobby_C_1] true
+[2021.03.21-19.58.41:480][938]LogBlueprintUserMessages: [BP_LobbyGameInstance_C_2] Online Session Create
+[2021.03.21-19.58.41:481][938]LogNet: Browse: /Game/Project/Maps/FootballMap?listen
+[2021.03.21-19.58.41:481][938]LogLoad: LoadMap: /Game/Project/Maps/FootballMap?listen
+[2021.03.21-19.58.41:481][938]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_2_FootballMap
+[2021.03.21-19.58.41:482][938]LogWorld: UWorld::CleanupWorld for FootballMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.21-19.58.41:482][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.21-19.58.41:520][938]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000219D163B240), frame # 2938
+[2021.03.21-19.58.41:520][938]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000219EB266C00), frame # 2938
+[2021.03.21-19.58.41:521][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.03.21-19.58.41:523][938]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_2_FootballMap
+[2021.03.21-19.58.41:531][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008193s)
+[2021.03.21-19.58.41:532][938]LogAIModule: Creating AISystem for world FootballMap
+[2021.03.21-19.58.41:532][938]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021981FBA000), frame # 2938
+[2021.03.21-19.58.41:532][938]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000219E518CCC0), frame # 2938
+[2021.03.21-19.58.41:532][938]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2021.03.21-19.58.41:532][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/FootballMap.FootballMap to /Game/Project/Maps/UEDPIE_2_FootballMap.FootballMap (0.009382s)
+[2021.03.21-19.58.41:532][938]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.03.21-19.58.41:533][938]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.03.21-19.58.41:533][938]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.03.21-19.58.41:533][938]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.03.21-19.58.41:533][938]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.03.21-19.58.41:533][938]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.21-19.58.41:533][938]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 7778
+[2021.03.21-19.58.41:534][938]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_2_FootballMap.FootballMap up for play (max tick rate 0) at 2021.03.21-20.58.41
+[2021.03.21-19.58.41:535][938]LogWorld: Bringing up level for play took: 0.001370
+[2021.03.21-19.58.41:538][938]LogLoad: Took 0.056779 seconds to LoadMap(/Game/Project/Maps/UEDPIE_2_FootballMap)
+[2021.03.21-19.58.41:539][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.21-19.58.41:540][938]LogBlueprintUserMessages: [BP_MainHUD_C_0] Server: Game
+[2021.03.21-19.58.51:105][787]LogBlueprintUserMessages: [Widget_Lobby_C_1] true
+[2021.03.21-19.58.51:105][787]LogBlueprintUserMessages: [Widget_Lobby_C_1] true
+[2021.03.21-19.58.51:113][787]LogSlate: Warning: WidgetMapToItem length (1) does not match ItemsWithGeneratedWidgets length (2). This is often because the same item is in the list more than once in ListViewT<ItemType> [ListViewBase.h(229)]. Diagnostics follow.
+[2021.03.21-19.58.51:113][787]LogSlate: Warning: 
+[2021.03.21-19.58.51:113][787]LogSlate: Warning: ItemToWidgetMap :
+[2021.03.21-19.58.51:113][787]LogSlate: Warning: 0xdab90f00 [LobbyInfoWidget] -> 0xeb080110 @ ObjectTableRowT [ListViewBase.h(602)]
+[2021.03.21-19.58.51:113][787]LogSlate: Warning: 
+[2021.03.21-19.58.51:113][787]LogSlate: Warning: WidgetMapToItem:
+[2021.03.21-19.58.51:113][787]LogSlate: Warning: 0xeb080520 -> 0xdab90f00 [LobbyInfoWidget]
+[2021.03.21-19.58.51:113][787]LogSlate: Warning: 
+[2021.03.21-19.58.51:113][787]LogSlate: Warning: ItemsWithGeneratedWidgets:
+[2021.03.21-19.58.51:113][787]LogSlate: Warning: [0] 0xdab90f00 [LobbyInfoWidget]
+[2021.03.21-19.58.51:113][787]LogSlate: Warning: [1] 0xdab90f00 [LobbyInfoWidget]
+[2021.03.21-19.58.51:113][787]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.03.21-19.58.51:113][787]LogWindows: Windows GetLastError: L’opération a réussi. (0)
+[2021.03.21-19.58.53:124][787]LogWindows: Error: === Critical error: ===
+[2021.03.21-19.58.53:125][787]LogWindows: Error: 
+[2021.03.21-19.58.53:125][787]LogWindows: Error: Assertion failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Public\Widgets/Views/SListView.h] [Line: 697] 
+[2021.03.21-19.58.53:125][787]LogWindows: Error: ListViewT<ItemType> [ListViewBase.h(229)] detected a critical error. See diagnostic dump above. Provide a custom 'OnItemToString_Debug' for more detailed diagnostics.
+[2021.03.21-19.58.53:125][787]LogWindows: Error: 
+[2021.03.21-19.58.53:125][787]LogWindows: Error: 
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa67033b29 KERNELBASE.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa1180ec66 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa11812048 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa1159e52d UE4Editor-Core.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa115297c5 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa1152bb00 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa043894c0 UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa042f1779 UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa042a0fff UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa260ea933 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10877031 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa2608ca17 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10877866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10874fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa04291227 UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10877866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa2608ca17 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10877866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10875915 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10877866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10875915 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10877866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10878248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10875aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10877866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10878248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10875aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10877866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10874fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa0703dc98 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10877866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10874fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa260dcf3e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10877866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10874fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10877866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10878248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10875aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10877866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10878248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10875aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10877866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10875915 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10877866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10874fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:125][787]LogWindows: Error: [Callstack] 0x00007ffa10877866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:126][787]LogWindows: Error: [Callstack] 0x00007ffa10878357 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:126][787]LogWindows: Error: [Callstack] 0x00007ffa107d9770 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:126][787]LogWindows: Error: [Callstack] 0x00007ffa108785e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.21-19.58.53:126][787]LogWindows: Error: [Callstack] 0x00007ffa25e59747 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.21-19.58.53:126][787]LogWindows: Error: [Callstack] 0x00007ffa25e8a669 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.21-19.58.53:126][787]LogWindows: Error: [Callstack] 0x00007ffa25eb0af0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.21-19.58.53:126][787]LogWindows: Error: [Callstack] 0x00007ffa25eb0024 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.21-19.58.53:126][787]LogWindows: Error: [Callstack] 0x00007ff7b9278735 UE4Editor.exe!UnknownFunction []
+[2021.03.21-19.58.53:126][787]LogWindows: Error: [Callstack] 0x00007ff7b928ba7c UE4Editor.exe!UnknownFunction []
+[2021.03.21-19.58.53:126][787]LogWindows: Error: [Callstack] 0x00007ff7b928bb5a UE4Editor.exe!UnknownFunction []
+[2021.03.21-19.58.53:126][787]LogWindows: Error: [Callstack] 0x00007ff7b929e31d UE4Editor.exe!UnknownFunction []
+[2021.03.21-19.58.53:126][787]LogWindows: Error: [Callstack] 0x00007ff7b92a145a UE4Editor.exe!UnknownFunction []
+[2021.03.21-19.58.53:126][787]LogWindows: Error: [Callstack] 0x00007ffa67fe7c24 KERNEL32.DLL!UnknownFunction []
+[2021.03.21-19.58.53:126][787]LogWindows: Error: [Callstack] 0x00007ffa69f2d721 ntdll.dll!UnknownFunction []
+[2021.03.21-19.58.53:126][787]LogWindows: Error: 
+[2021.03.21-19.58.53:145][787]LogExit: Executing StaticShutdownAfterError
+[2021.03.21-19.58.53:147][787]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.03.21-19.58.53:147][787]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.03.21-19.58.53:185][787]Log file closed, 03/21/21 20:58:53

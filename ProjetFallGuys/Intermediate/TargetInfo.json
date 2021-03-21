@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "ProjetFallGuys",
-			"Path": "C:\\Users\\B.Gerard\\Documents\\Unreal Projects\\Project Divers\\ProjetReseau_2\\FallGuysNetwork\\ProjetFallGuys\\Source\\ProjetFallGuys.Target.cs",
+			"Path": "C:\\Users\\brend\\Documents\\Programmation\\FallGuysNetwork\\ProjetFallGuys\\Source\\ProjetFallGuys.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "ProjetFallGuysEditor",
-			"Path": "C:\\Users\\B.Gerard\\Documents\\Unreal Projects\\Project Divers\\ProjetReseau_2\\FallGuysNetwork\\ProjetFallGuys\\Source\\ProjetFallGuysEditor.Target.cs",
+			"Path": "C:\\Users\\brend\\Documents\\Programmation\\FallGuysNetwork\\ProjetFallGuys\\Source\\ProjetFallGuysEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
