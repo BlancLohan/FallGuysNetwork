@@ -1825,3 +1825,1545 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.22-08.07.48:586][792]AssetCheck: New page: Asset Save: FootballMap
 [2021.03.22-08.07.48:586][792]LogContentValidation: Display: Validating World /Game/Project/Maps/FootballMap.FootballMap
 [2021.03.22-08.07.49:996][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.22-08.09.13:111][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2021.03.22-08.09.13:803][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2021.03.22-08.09.14:316][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2021.03.22-08.09.14:856][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2021.03.22-08.09.15:303][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2021.03.22-08.09.16:475][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2021.03.22-08.09.18:163][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2021.03.22-08.09.18:601][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2021.03.22-08.17.23:074][943]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Project/Maps/PushAway.PushAway
+[2021.03.22-08.17.23:086][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.03.22-08.17.24:809][943]LogSlate: Window 'Save Content' being destroyed
+[2021.03.22-08.17.24:833][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.03.22-08.17.24:874][943]LogSavePackage: Moving '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/FootballMap0767865D42C4BF6B8E6D8EA5DEE5E557.tmp' to '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Content/Project/Maps/FootballMap.umap'
+[2021.03.22-08.17.24:908][943]LogFileHelpers: Saving map 'FootballMap' took 0.091
+[2021.03.22-08.17.24:921][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.03.22-08.17.24:928][943]LogSavePackage: Moving '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/PushAwayD53FFE9944F231AE4B8C719E585DDDFE.tmp' to '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Content/Project/Maps/PushAway.umap'
+[2021.03.22-08.17.24:930][943]LogFileHelpers: Saving map 'PushAway' took 0.022
+[2021.03.22-08.17.24:930][943]Cmd: MAP LOAD FILE="../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Content/Project/Maps/PushAway.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.22-08.17.24:930][943]LightingResults: New page: Lighting Build
+[2021.03.22-08.17.24:930][943]LoadErrors: New page: Loading map: PushAway.umap
+[2021.03.22-08.17.24:952][943]LogWorld: UWorld::CleanupWorld for FootballMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-08.17.24:952][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-08.17.24:952][943]MapCheck: New page: Map Check
+[2021.03.22-08.17.24:952][943]LightingResults: New page: Lighting Build
+[2021.03.22-08.17.24:968][943]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000227AACF7E00), frame # 110943
+[2021.03.22-08.17.24:968][943]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000227AAF07880), frame # 110943
+[2021.03.22-08.17.24:969][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.03.22-08.17.24:970][943]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.22-08.17.24:970][943]LogAIModule: Creating AISystem for world PushAway
+[2021.03.22-08.17.24:970][943]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000227C493EC00), frame # 110943
+[2021.03.22-08.17.24:970][943]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002280C442E80), frame # 110943
+[2021.03.22-08.17.24:983][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.03.22-08.17.25:011][943]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.22-08.17.25:011][943]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,087ms to complete.
+[2021.03.22-08.17.25:011][943]LogFileHelpers: Loading map 'PushAway' took 0.081
+[2021.03.22-08.17.25:053][943]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.22-08.17.25:053][943]LogContentValidation: Display: Validating World /Game/Project/Maps/FootballMap.FootballMap
+[2021.03.22-08.17.25:064][943]LogContentValidation: Display: Validating World /Game/Project/Maps/PushAway.PushAway
+[2021.03.22-08.17.32:927][857]LogSlate: Took 0.005814 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.22-08.18.04:155][542]Cmd: EDIT COPY
+[2021.03.22-08.18.04:422][574]Cmd: EDIT PASTE
+[2021.03.22-08.18.17:388][112]Cmd: EDIT COPY
+[2021.03.22-08.18.18:721][266]Cmd: EDIT PASTE
+[2021.03.22-08.18.40:867][850]LogSlate: Took 0.014173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.03.22-08.18.59:079][992]LogActorFactory: Actor Factory created Cube
+[2021.03.22-08.18.59:941][ 93]LogActorFactory: Actor Factory created Cube
+[2021.03.22-08.19.42:220][ 38]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Project/Materials/GlassMAt.GlassMAt
+[2021.03.22-08.19.42:222][ 38]LogMaterial: Display: Missing cached shader map for material GlassMAt, compiling. 
+[2021.03.22-08.19.42:609][ 38]LogMaterial: Display: Missing cached shader map for material GlassMAt, compiling. 
+[2021.03.22-08.19.42:622][ 38]LogMaterial: Display: Missing cached shader map for material GlassMAt, compiling. 
+[2021.03.22-08.19.42:639][ 38]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.03.22-08.19.42:639][ 38]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2021.03.22-08.19.42:639][ 38]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2021.03.22-08.19.42:639][ 38]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2021.03.22-08.19.42:639][ 38]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.03.22-08.19.42:639][ 38]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2021.03.22-08.19.42:639][ 38]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.03.22-08.19.42:639][ 38]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2021.03.22-08.19.42:687][ 38]LogSlate: Took 0.006502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.22-08.19.43:598][112]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.03.22-08.19.43:739][119]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.03.22-08.19.43:740][119]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2021.03.22-08.19.43:852][127]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.03.22-08.19.43:867][128]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.03.22-08.19.43:883][129]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.03.22-08.19.43:947][133]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.03.22-08.19.43:947][133]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.03.22-08.19.44:012][137]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.03.22-08.19.44:103][142]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.03.22-08.19.44:103][142]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.22-08.19.44:121][143]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.03.22-08.19.44:187][146]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.03.22-08.19.44:332][154]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.03.22-08.19.44:350][155]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.03.22-08.19.44:526][166]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.03.22-08.19.45:005][208]MaterialEditorStats: Base pass shader: 77 instructions
+[2021.03.22-08.19.45:005][208]MaterialEditorStats: Base pass shader with Surface Lightmap: 114 instructions
+[2021.03.22-08.19.45:005][208]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2021.03.22-08.19.45:005][208]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2021.03.22-08.19.45:005][208]MaterialEditorStats: Texture samplers: 4/16
+[2021.03.22-08.19.45:019][208]LogSlate: Took 0.006658 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.22-08.19.46:771][396]LogMaterial: Display: Missing cached shader map for material GlassMAt, compiling. 
+[2021.03.22-08.19.46:784][396]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.03.22-08.19.46:788][396]LogMaterial: Display: Missing cached shader map for material GlassMAt, compiling. 
+[2021.03.22-08.19.46:799][396]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.03.22-08.19.46:799][396]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.03.22-08.19.46:799][396]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.03.22-08.19.46:799][396]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.03.22-08.19.46:810][396]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.03.22-08.19.46:857][397]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2021.03.22-08.19.46:857][397]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2021.03.22-08.19.46:857][397]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2021.03.22-08.19.46:857][397]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2021.03.22-08.19.47:124][408]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.03.22-08.19.47:141][409]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2021.03.22-08.19.47:156][410]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2021.03.22-08.19.47:197][413]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2021.03.22-08.19.47:210][414]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2021.03.22-08.19.47:298][420]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.03.22-08.19.47:361][423]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2021.03.22-08.19.47:381][424]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.03.22-08.19.47:516][431]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2021.03.22-08.19.47:536][432]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.03.22-08.19.47:569][434]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2021.03.22-08.19.47:629][438]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.03.22-08.19.47:643][439]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.03.22-08.19.47:705][443]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.03.22-08.19.47:723][444]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.03.22-08.19.47:740][445]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.03.22-08.19.47:759][446]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.03.22-08.19.47:954][456]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.03.22-08.19.47:991][458]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.03.22-08.19.48:140][466]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.03.22-08.19.48:172][468]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.03.22-08.19.48:219][471]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.03.22-08.19.48:233][472]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.03.22-08.19.48:267][474]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.03.22-08.19.48:697][507]MaterialEditorStats: Base pass shader: 78 instructions
+[2021.03.22-08.19.48:697][507]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2021.03.22-08.19.48:697][507]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.03.22-08.19.48:697][507]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2021.03.22-08.19.48:698][507]MaterialEditorStats: Texture samplers: 4/16
+[2021.03.22-08.19.50:597][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.03.22-08.19.50:601][692]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.03.22-08.19.50:601][692]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.03.22-08.19.50:601][692]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.03.22-08.19.50:601][692]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.03.22-08.19.50:603][692]LogMaterial: Display: Missing cached shader map for material GlassMAt, compiling. 
+[2021.03.22-08.19.50:636][694]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2021.03.22-08.19.50:636][694]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2021.03.22-08.19.50:636][694]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2021.03.22-08.19.50:636][694]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2021.03.22-08.19.50:947][711]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2021.03.22-08.19.50:947][711]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2021.03.22-08.19.50:977][713]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2021.03.22-08.19.51:020][716]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.03.22-08.19.51:020][716]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.03.22-08.19.51:111][722]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2021.03.22-08.19.51:151][724]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.03.22-08.19.51:190][726]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.03.22-08.19.51:316][733]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.03.22-08.19.51:366][736]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.03.22-08.19.51:383][737]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.03.22-08.19.51:457][742]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.03.22-08.19.51:471][743]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.03.22-08.19.51:487][744]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.03.22-08.19.51:517][746]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.03.22-08.19.51:566][749]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.03.22-08.19.51:582][750]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.03.22-08.19.51:740][758]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.03.22-08.19.51:815][762]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.03.22-08.19.51:969][772]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.03.22-08.19.52:437][810]MaterialEditorStats: Base pass shader: 78 instructions
+[2021.03.22-08.19.52:437][810]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2021.03.22-08.19.52:437][810]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.03.22-08.19.52:437][810]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2021.03.22-08.19.52:437][810]MaterialEditorStats: Texture samplers: 4/16
+[2021.03.22-08.19.52:616][829]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.22-08.19.55:279][127]LogMaterial: Display: Missing cached shader map for material GlassMAt, compiling. 
+[2021.03.22-08.19.55:294][127]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.03.22-08.19.55:299][127]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2021.03.22-08.19.55:299][127]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2021.03.22-08.19.55:299][127]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2021.03.22-08.19.55:299][127]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2021.03.22-08.19.55:299][127]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2021.03.22-08.19.55:299][127]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2021.03.22-08.19.55:299][127]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2021.03.22-08.19.55:299][127]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2021.03.22-08.19.55:300][127]LogMaterial: Display: Missing cached shader map for material GlassMAt, compiling. 
+[2021.03.22-08.19.55:582][144]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2021.03.22-08.19.55:759][155]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 27
+[2021.03.22-08.19.55:773][156]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2021.03.22-08.19.55:786][157]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2021.03.22-08.19.55:800][158]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2021.03.22-08.19.55:813][159]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2021.03.22-08.19.55:886][165]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2021.03.22-08.19.55:900][166]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.03.22-08.19.55:994][171]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.03.22-08.19.56:113][177]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.03.22-08.19.56:175][181]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2021.03.22-08.19.56:191][182]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.03.22-08.19.56:191][182]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2021.03.22-08.19.56:276][188]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.03.22-08.19.56:324][191]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2021.03.22-08.19.56:341][192]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.03.22-08.19.56:406][196]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.03.22-08.19.56:495][201]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.03.22-08.19.56:550][203]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.03.22-08.19.56:597][206]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.03.22-08.19.56:612][207]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.03.22-08.19.56:686][212]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.03.22-08.19.56:686][212]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.03.22-08.19.56:701][213]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.03.22-08.19.56:733][215]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.03.22-08.19.56:831][221]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.03.22-08.19.56:923][225]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.03.22-08.19.57:104][236]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.03.22-08.19.57:603][280]MaterialEditorStats: Base pass shader: 78 instructions
+[2021.03.22-08.19.57:603][280]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2021.03.22-08.19.57:603][280]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.03.22-08.19.57:603][280]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2021.03.22-08.19.57:603][280]MaterialEditorStats: Texture samplers: 4/16
+[2021.03.22-08.19.58:310][358]LogMaterialEditor: Saving and Compiling material GlassMAt
+[2021.03.22-08.20.00:254][358]LogMaterial: Display: Missing cached shader map for material GlassMAt, compiling. 
+[2021.03.22-08.20.00:319][358]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.03.22-08.20.00:320][358]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2021.03.22-08.20.00:320][358]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2021.03.22-08.20.00:320][358]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2021.03.22-08.20.00:320][358]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.03.22-08.20.00:320][358]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2021.03.22-08.20.00:320][358]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.03.22-08.20.00:320][358]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2021.03.22-08.20.00:337][358]LogMaterial: Display: Missing cached shader map for material GlassMAt, compiling. 
+[2021.03.22-08.20.00:425][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.03.22-08.20.00:430][358]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.22-08.20.00:995][358]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 61
+[2021.03.22-08.20.00:995][358]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 60
+[2021.03.22-08.20.00:995][358]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 59
+[2021.03.22-08.20.00:995][358]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 58
+[2021.03.22-08.20.00:995][358]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 57
+[2021.03.22-08.20.00:995][358]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 56
+[2021.03.22-08.20.00:995][358]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 55
+[2021.03.22-08.20.00:995][358]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 54
+[2021.03.22-08.20.00:995][358]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 53
+[2021.03.22-08.20.00:995][358]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 52
+[2021.03.22-08.20.00:995][358]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 51
+[2021.03.22-08.20.01:556][358]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 50
+[2021.03.22-08.20.01:556][358]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 49
+[2021.03.22-08.20.01:556][358]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 48
+[2021.03.22-08.20.01:556][358]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 47
+[2021.03.22-08.20.01:556][358]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 46
+[2021.03.22-08.20.01:556][358]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 45
+[2021.03.22-08.20.01:556][358]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 44
+[2021.03.22-08.20.01:556][358]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 43
+[2021.03.22-08.20.01:556][358]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 37
+[2021.03.22-08.20.01:556][358]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 32
+[2021.03.22-08.20.01:556][358]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2021.03.22-08.20.01:556][358]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2021.03.22-08.20.01:601][358]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.03.22-08.20.01:601][358]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2021.03.22-08.20.01:607][358]TextureStreamingBuild: Display: Compiling optional shaders took 1.181 seconds.
+[2021.03.22-08.20.01:619][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.03.22-08.20.02:237][358]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.03.22-08.20.02:798][358]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.03.22-08.20.02:798][358]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.03.22-08.20.03:359][358]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.03.22-08.20.03:359][358]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.22-08.20.03:359][358]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.03.22-08.20.03:359][358]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.03.22-08.20.03:359][358]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.03.22-08.20.03:359][358]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.03.22-08.20.03:359][358]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.03.22-08.20.03:745][358]LogSavePackage: Moving '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/GlassMAt53977615486BE4F15DE2FA9D7B919B63.tmp' to '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Content/Project/Materials/GlassMAt.uasset'
+[2021.03.22-08.20.03:774][358]AssetCheck: New page: Asset Save: GlassMAt
+[2021.03.22-08.20.03:774][358]LogContentValidation: Display: Validating Material /Game/Project/Materials/GlassMAt.GlassMAt
+[2021.03.22-08.20.22:611][492]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.03.22-08.20.23:189][559]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.03.22-08.20.23:774][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.03.22-08.20.36:379][104]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.22-08.20.53:451][109]Cmd: DELETE
+[2021.03.22-08.20.53:451][109]Cmd: ACTOR DELETE
+[2021.03.22-08.20.53:453][109]LogEditorActor: Deleted Actor: Brush
+[2021.03.22-08.20.53:465][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.03.22-08.20.53:467][109]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.03.22-08.20.55:205][312]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.22-08.21.15:681][730]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.03.22-08.21.26:394][986]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2021.03.22-08.21.37:663][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.03.22-08.21.48:606][568]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2021.03.22-08.21.51:655][916]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2021.03.22-08.21.54:070][200]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.03.22-08.22.03:656][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.03.22-08.22.05:330][503]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.03.22-08.22.07:965][810]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2021.03.22-08.22.12:355][320]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.03.22-08.22.13:665][468]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.03.22-08.22.29:338][283]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2021.03.22-08.22.30:438][415]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2021.03.22-08.22.30:880][468]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2021.03.22-08.22.32:063][610]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2021.03.22-08.25.00:857][409]LogSlate: Window 'Plugins' being destroyed
+[2021.03.22-08.25.00:859][409]LogSlate: Window 'Plugins' being destroyed
+[2021.03.22-08.25.00:859][409]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.03.22-08.25.17:730][433]Cmd: DELETE
+[2021.03.22-08.25.17:730][433]Cmd: ACTOR DELETE
+[2021.03.22-08.25.17:731][433]LogEditorActor: Deleted Actor: Brush
+[2021.03.22-08.25.17:743][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.03.22-08.25.17:746][433]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.03.22-08.25.49:600][436]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.03.22-08.26.07:671][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.03.22-08.26.07:673][576]LogMetaData: Removing '/Game/Project/Blueprints/DestroyableMap.DestroyableMap:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Project/Blueprints/DestoyableMap.PackageMetaData'
+[2021.03.22-08.26.07:673][576]LogMetaData: Removing '/Game/Project/Blueprints/DestroyableMap.SKEL_DestroyableMap_C' ref from Metadata '/Game/Project/Blueprints/DestoyableMap.PackageMetaData'
+[2021.03.22-08.26.07:673][576]LogMetaData: Removing '/Game/Project/Blueprints/DestroyableMap.DestroyableMap_C' ref from Metadata '/Game/Project/Blueprints/DestoyableMap.PackageMetaData'
+[2021.03.22-08.26.07:673][576]LogMetaData: Removing '/Game/Project/Blueprints/DestroyableMap.DestroyableMap:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Project/Blueprints/DestoyableMap.PackageMetaData'
+[2021.03.22-08.26.07:673][576]LogMetaData: Removing '/Game/Project/Blueprints/DestroyableMap.DestroyableMap:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Project/Blueprints/DestoyableMap.PackageMetaData'
+[2021.03.22-08.26.07:673][576]LogMetaData: Removing '/Game/Project/Blueprints/DestroyableMap.DestroyableMap:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Project/Blueprints/DestoyableMap.PackageMetaData'
+[2021.03.22-08.26.07:699][576]LogSavePackage: Moving '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/DestroyableMap68BDF7674D35B5483B950C90F96EE6A3.tmp' to '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Content/Project/Blueprints/DestroyableMap.uasset'
+[2021.03.22-08.26.07:801][576]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 2
+SessionName : 
+Reason      : Delete Selected Item
+
+Purging the undo buffer...
+
+[2021.03.22-08.26.07:834][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.03.22-08.26.07:850][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.03.22-08.26.07:862][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.22-08.26.07:887][576]AssetCheck: New page: Asset Save: DestroyableMap
+[2021.03.22-08.26.07:887][576]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/DestroyableMap.DestroyableMap
+[2021.03.22-08.26.12:538][133]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Blueprints/DestroyableMap.DestroyableMap
+[2021.03.22-08.26.12:829][133]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2021.03.22-08.26.13:614][134]LogRenderer: Reallocating scene render targets to support 1252x692 Format 10 NumSamples 1 (Frame:1).
+[2021.03.22-08.27.19:323][378]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.03.22-08.27.25:093][ 17]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.22-08.27.56:775][788]Cmd: TRANSACTION UNDO
+[2021.03.22-08.27.56:775][788]LogEditorTransaction: Undo Scale Actors
+[2021.03.22-08.27.56:783][788]LogMaterial: Display: Missing cached shader map for material GlassMAt, compiling. 
+[2021.03.22-08.27.56:830][789]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.03.22-08.27.56:830][789]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2021.03.22-08.27.56:830][789]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2021.03.22-08.27.56:830][789]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2021.03.22-08.27.56:830][789]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.03.22-08.27.56:830][789]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2021.03.22-08.27.56:830][789]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.03.22-08.27.56:830][789]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2021.03.22-08.27.57:177][797]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.03.22-08.27.57:307][800]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.03.22-08.27.57:310][801]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.03.22-08.27.57:362][807]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.03.22-08.27.57:370][808]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.03.22-08.27.57:463][819]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.03.22-08.27.57:483][821]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.03.22-08.27.57:502][823]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.03.22-08.27.57:595][833]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.03.22-08.27.57:625][836]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.03.22-08.27.57:634][837]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.03.22-08.27.57:713][845]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.03.22-08.27.57:794][854]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.03.22-08.27.57:851][859]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.03.22-08.27.57:915][865]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.03.22-08.27.58:072][882]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.03.22-08.27.58:590][940]MaterialEditorStats: Base pass shader: 78 instructions
+[2021.03.22-08.27.58:590][940]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2021.03.22-08.27.58:590][940]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.03.22-08.27.58:590][940]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2021.03.22-08.27.58:590][940]MaterialEditorStats: Texture samplers: 4/16
+[2021.03.22-08.28.09:393][198]LogSlate: Window 'Select Path' being destroyed
+[2021.03.22-08.28.09:415][198]LogStaticMesh: Building static mesh Triangle...
+[2021.03.22-08.28.09:418][198]LogStaticMesh: Built static mesh [0.00s] /Game/Triangle.Triangle
+[2021.03.22-08.28.09:419][198]LogActorFactory: Actor Factory created Triangle
+[2021.03.22-08.28.09:434][198]LogEditor: Error: Actor 'Brush /Game/Project/Maps/PushAway.PushAway:PersistentLevel.CylinderBrush' is marked pending kill and cannot be converted
+[2021.03.22-08.28.09:434][198]EditorErrors: New page: Actor Reattachment
+[2021.03.22-08.28.09:455][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.03.22-08.32.12:262][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.03.22-08.32.12:286][427]LogSavePackage: Moving '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/PushAway_Auto1933372AE43668EED380D09B0D6451934.tmp' to '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/Autosaves/Game/Project/Maps/PushAway_Auto1.umap'
+[2021.03.22-08.32.12:289][427]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project/Maps/PushAway' took 0.055
+[2021.03.22-08.32.12:289][427]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.055
+[2021.03.22-08.32.12:289][427]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Project/Blueprints/DestroyableMap] ([1] browsable assets)...
+[2021.03.22-08.32.12:297][427]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Project/Blueprints/DestroyableMap.DestroyableMap]
+[2021.03.22-08.32.12:297][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/Blueprints/DestroyableMap]
+[2021.03.22-08.32.12:321][427]LogSavePackage: Moving '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/DestroyableMap_Auto1CFA6D96848C16A4E269EC0BE753FF7A2.tmp' to '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/Autosaves/Game/Project/Blueprints/DestroyableMap_Auto1.uasset'
+[2021.03.22-08.32.12:322][427]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Triangle] ([1] browsable assets)...
+[2021.03.22-08.32.12:329][427]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Triangle.Triangle]
+[2021.03.22-08.32.12:329][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/Triangle]
+[2021.03.22-08.32.12:338][427]LogSavePackage: Moving '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/Triangle_Auto154599C32497D8AB87B1C1ABCC9DAC845.tmp' to '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/Autosaves/Game/Triangle_Auto1.uasset'
+[2021.03.22-08.32.12:339][427]LogFileHelpers: Auto-saving content packages took 0.049
+[2021.03.22-08.33.03:332][254]Cmd: DELETE
+[2021.03.22-08.33.03:332][254]Cmd: ACTOR DELETE
+[2021.03.22-08.33.03:333][254]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.22-08.33.03:349][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.03.22-08.33.03:351][254]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.03.22-08.33.15:987][724]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.22-08.34.25:628][984]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.22-08.35.44:831][330]LogSlate: Window 'Select Path' being destroyed
+[2021.03.22-08.35.44:854][330]LogStaticMesh: Building static mesh MapPieces...
+[2021.03.22-08.35.44:869][330]LogStaticMesh: Built static mesh [0.02s] /Game/MapPieces.MapPieces
+[2021.03.22-08.35.44:870][330]LogActorFactory: Actor Factory created MapPieces
+[2021.03.22-08.35.44:884][330]LogEditor: Error: Actor 'Brush /Game/Project/Maps/PushAway.PushAway:PersistentLevel.CylinderBrush2' is marked pending kill and cannot be converted
+[2021.03.22-08.35.44:884][330]LogEditor: Error: Actor 'Brush /Game/Project/Maps/PushAway.PushAway:PersistentLevel.CylinderBrush_5' is marked pending kill and cannot be converted
+[2021.03.22-08.35.44:885][330]EditorErrors: New page: Actor Reattachment
+[2021.03.22-08.35.44:903][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.03.22-08.35.54:268][435]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.22-08.36.04:386][619]LogSlate: Window 'Select Path' being destroyed
+[2021.03.22-08.36.04:415][619]LogStaticMesh: Building static mesh MapCenter...
+[2021.03.22-08.36.04:421][619]LogStaticMesh: Built static mesh [0.01s] /Game/MapCenter.MapCenter
+[2021.03.22-08.36.04:422][619]LogActorFactory: Actor Factory created MapCenter
+[2021.03.22-08.36.04:436][619]LogEditor: Error: Actor 'Brush /Game/Project/Maps/PushAway.PushAway:PersistentLevel.CylinderBrush_8' is marked pending kill and cannot be converted
+[2021.03.22-08.36.04:436][619]EditorErrors: New page: Actor Reattachment
+[2021.03.22-08.36.04:452][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.03.22-08.39.53:368][ 29]BlueprintLog: New page: Compile DestroyableMap
+[2021.03.22-08.39.53:705][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.03.22-08.41.56:319][314]BlueprintLog: New page: Compile DestroyableMap
+[2021.03.22-08.41.56:362][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.03.22-08.42.02:297][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapCenter)
+[2021.03.22-08.42.02:827][ 46]Cmd: DELETE
+[2021.03.22-08.42.02:827][ 46]Cmd: ACTOR DELETE
+[2021.03.22-08.42.02:829][ 46]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.22-08.42.02:849][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.03.22-08.42.02:852][ 46]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.03.22-08.42.03:516][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapPieces)
+[2021.03.22-08.42.03:695][144]Cmd: DELETE
+[2021.03.22-08.42.03:695][144]Cmd: ACTOR DELETE
+[2021.03.22-08.42.03:697][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.22-08.42.03:715][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.22-08.42.03:716][144]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.03.22-08.42.04:811][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.03.22-08.42.50:473][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.03.22-08.42.50:501][581]LogSavePackage: Moving '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/PushAway_Auto2EC8440814F7799A03E0B079EC56BA07B.tmp' to '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/Autosaves/Game/Project/Maps/PushAway_Auto2.umap'
+[2021.03.22-08.42.50:502][581]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project/Maps/PushAway' took 0.053
+[2021.03.22-08.42.50:502][581]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.053
+[2021.03.22-08.42.50:502][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Project/Blueprints/DestroyableMap] ([1] browsable assets)...
+[2021.03.22-08.42.50:509][581]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Project/Blueprints/DestroyableMap.DestroyableMap]
+[2021.03.22-08.42.50:509][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/Blueprints/DestroyableMap]
+[2021.03.22-08.42.50:534][581]LogSavePackage: Moving '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/DestroyableMap_Auto26437D5AC4BF1754126C71CAF1FCCC217.tmp' to '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/Autosaves/Game/Project/Blueprints/DestroyableMap_Auto2.uasset'
+[2021.03.22-08.42.50:534][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MapPieces] ([1] browsable assets)...
+[2021.03.22-08.42.50:541][581]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MapPieces.MapPieces]
+[2021.03.22-08.42.50:541][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/MapPieces]
+[2021.03.22-08.42.50:551][581]LogSavePackage: Moving '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/MapPieces_Auto29D3E832844C1701BC82EDAACEDAE3A7C.tmp' to '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/Autosaves/Game/MapPieces_Auto2.uasset'
+[2021.03.22-08.42.50:552][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MapCenter] ([1] browsable assets)...
+[2021.03.22-08.42.50:559][581]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MapCenter.MapCenter]
+[2021.03.22-08.42.50:559][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/MapCenter]
+[2021.03.22-08.42.50:569][581]LogSavePackage: Moving '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/MapCenter_Auto2B8BEFC9548BA853BD4E5C9839EE89F6C.tmp' to '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/Autosaves/Game/MapCenter_Auto2.uasset'
+[2021.03.22-08.42.50:569][581]LogFileHelpers: Auto-saving content packages took 0.067
+[2021.03.22-08.43.43:798][895]LogEditorViewport: Clicking on Actor (LMB): DestroyableMap_C (DestroyableMap)
+[2021.03.22-08.47.39:942][613]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Project/Materials/OrangeColor.OrangeColor
+[2021.03.22-08.47.39:944][613]LogMaterial: Display: Missing cached shader map for material OrangeColor, compiling. 
+[2021.03.22-08.47.40:027][613]LogMaterial: Display: Missing cached shader map for material OrangeColor, compiling. 
+[2021.03.22-08.47.40:034][613]LogMaterial: Display: Missing cached shader map for material OrangeColor, compiling. 
+[2021.03.22-08.47.40:048][613]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.03.22-08.47.40:048][613]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.03.22-08.47.40:048][613]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.03.22-08.47.40:048][613]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.03.22-08.47.40:048][613]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.03.22-08.47.40:048][613]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.03.22-08.47.40:048][613]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.03.22-08.47.40:048][613]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.03.22-08.47.40:049][613]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.03.22-08.47.40:516][639]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.03.22-08.47.40:638][646]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.03.22-08.47.40:653][647]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.03.22-08.47.40:763][653]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.03.22-08.47.40:763][653]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.03.22-08.47.40:814][656]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.03.22-08.47.40:830][657]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.03.22-08.47.41:093][674]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.03.22-08.47.41:093][674]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2021.03.22-08.47.41:093][674]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.03.22-08.47.41:093][674]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.03.22-08.47.41:093][674]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.22-08.47.42:678][749]LogSlate: Window 'Message' being destroyed
+[2021.03.22-08.47.42:681][749]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Project/Materials/GlassMAt.GlassMAt
+(Selecting 'No' will cause all changes to be lost!)
+[2021.03.22-08.47.43:112][749]LogMaterial: Display: Missing cached shader map for material GlassMAt, compiling. 
+[2021.03.22-08.47.43:173][749]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.03.22-08.47.43:173][749]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2021.03.22-08.47.43:173][749]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2021.03.22-08.47.43:173][749]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2021.03.22-08.47.43:173][749]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.03.22-08.47.43:173][749]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2021.03.22-08.47.43:174][749]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.03.22-08.47.43:174][749]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2021.03.22-08.47.43:181][749]LogMaterial: Display: Missing cached shader map for material GlassMAt, compiling. 
+[2021.03.22-08.47.43:277][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.03.22-08.47.43:286][749]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.22-08.47.43:851][749]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 61
+[2021.03.22-08.47.43:851][749]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 60
+[2021.03.22-08.47.43:851][749]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 59
+[2021.03.22-08.47.43:851][749]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 58
+[2021.03.22-08.47.43:851][749]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 57
+[2021.03.22-08.47.43:851][749]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 56
+[2021.03.22-08.47.43:851][749]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 55
+[2021.03.22-08.47.43:851][749]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 54
+[2021.03.22-08.47.43:851][749]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 53
+[2021.03.22-08.47.43:851][749]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 52
+[2021.03.22-08.47.43:851][749]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 51
+[2021.03.22-08.47.44:412][749]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 50
+[2021.03.22-08.47.44:412][749]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 49
+[2021.03.22-08.47.44:412][749]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 48
+[2021.03.22-08.47.44:412][749]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 47
+[2021.03.22-08.47.44:412][749]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 46
+[2021.03.22-08.47.44:412][749]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 45
+[2021.03.22-08.47.44:412][749]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 44
+[2021.03.22-08.47.44:412][749]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 43
+[2021.03.22-08.47.44:412][749]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 37
+[2021.03.22-08.47.44:412][749]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 32
+[2021.03.22-08.47.44:412][749]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2021.03.22-08.47.44:412][749]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2021.03.22-08.47.44:446][749]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.03.22-08.47.44:446][749]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.03.22-08.47.44:449][749]TextureStreamingBuild: Display: Compiling optional shaders took 1.167 seconds.
+[2021.03.22-08.47.44:473][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.03.22-08.47.44:515][749]LogSlate: Window 'OrangeColor' being destroyed
+[2021.03.22-08.47.44:517][749]LogSlate: Window 'OrangeColor' being destroyed
+[2021.03.22-08.47.44:626][749]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-08.47.44:627][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-08.47.44:656][749]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-08.47.44:656][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-08.47.44:787][749]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.03.22-08.47.44:815][749]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-08.47.44:815][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-08.47.45:480][803]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.03.22-08.47.45:642][820]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.03.22-08.47.45:653][821]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.03.22-08.47.45:834][838]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.03.22-08.47.46:111][865]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.03.22-08.47.46:199][874]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.03.22-08.47.46:235][878]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.03.22-08.47.46:301][885]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.03.22-08.47.46:334][888]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.03.22-08.53.03:493][883]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.03.22-08.53.03:532][883]LogSavePackage: Moving '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/PushAway_Auto3143E2CA54A8F0804023CBB9C0F6D3980.tmp' to '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/Autosaves/Game/Project/Maps/PushAway_Auto3.umap'
+[2021.03.22-08.53.03:536][883]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project/Maps/PushAway' took 0.085
+[2021.03.22-08.53.03:536][883]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.085
+[2021.03.22-08.53.03:536][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Project/Materials/GlassMAt] ([1] browsable assets)...
+[2021.03.22-08.53.03:553][883]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Project/Materials/GlassMAt.GlassMAt]
+[2021.03.22-08.53.03:554][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/Materials/GlassMAt]
+[2021.03.22-08.53.03:575][883]LogSavePackage: Moving '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/GlassMAt_Auto3369FB49848E82386009DD8965AB14DDC.tmp' to '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/Autosaves/Game/Project/Materials/GlassMAt_Auto3.uasset'
+[2021.03.22-08.53.03:576][883]LogFileHelpers: Auto-saving content packages took 0.040
+[2021.03.22-09.05.44:037][427]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4768b38d-63cd-4598-8c5b-873dab566e40}.
+[2021.03.22-09.05.44:037][427]LogTemp: Resetting audio stream to device id 
+[2021.03.22-09.05.44:051][427]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.22-09.05.44:051][427]LogAudioMixer: Display: 1: FrontRight
+[2021.03.22-09.06.35:979][697]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Blueprints/DestroyableMap.DestroyableMap
+[2021.03.22-09.07.37:253][605]BlueprintLog: New page: Compile DestroyableMap
+[2021.03.22-09.07.37:325][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.03.22-09.07.52:184][124]LogSlate: Took 0.005566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.03.22-09.09.26:629][896]BlueprintLog: New page: Compile DestroyableMap
+[2021.03.22-09.09.26:678][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.03.22-09.09.52:884][764]BlueprintLog: New page: Compile DestroyableMap
+[2021.03.22-09.09.52:934][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.03.22-09.10.03:344][927]BlueprintLog: New page: Compile DestroyableMap
+[2021.03.22-09.10.03:391][927]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.03.22-09.10.09:522][554]BlueprintLog: New page: Compile DestroyableMap
+[2021.03.22-09.10.09:570][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.03.22-09.11.37:526][312]BlueprintLog: New page: Compile DestroyableMap
+[2021.03.22-09.11.37:574][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.03.22-09.11.48:265][434]BlueprintLog: New page: Compile DestroyableMap
+[2021.03.22-09.11.48:269][434]LogClass: Warning: Type mismatch in Parts of DestroyableMap_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2021.03.22-09.11.48:269][434]LogBlueprint: Warning: [Compiler DestroyableMap] Can't parse default value 'None' for  . Property: Parts.
+[2021.03.22-09.11.48:314][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.03.22-09.15.43:656][ 24]BlueprintLog: New page: Compile DestroyableMap
+[2021.03.22-09.15.43:717][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.03.22-09.16.33:636][ 23]BlueprintLog: New page: Compile DestroyableMap
+[2021.03.22-09.16.33:688][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.03.22-09.16.57:052][349]BlueprintLog: New page: Compile DestroyableMap
+[2021.03.22-09.16.57:102][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.03.22-09.17.07:463][436]BlueprintLog: New page: Compile DestroyableMap
+[2021.03.22-09.17.07:513][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.03.22-09.17.18:732][508]BlueprintLog: New page: Compile DestroyableMap
+[2021.03.22-09.17.18:784][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.03.22-09.17.24:313][ 96]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.22-09.17.24:332][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.22-09.17.24:332][ 96]PIE: New page: PIE session: PushAway (22 mars 2021 à 11:17:24)
+[2021.03.22-09.17.24:333][ 96]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_PushAway
+[2021.03.22-09.17.24:334][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001508s)
+[2021.03.22-09.17.24:335][ 96]LogAIModule: Creating AISystem for world PushAway
+[2021.03.22-09.17.24:335][ 96]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002288F750A00), frame # 513096
+[2021.03.22-09.17.24:335][ 96]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002282F6F25C0), frame # 513096
+[2021.03.22-09.17.24:335][ 96]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2021.03.22-09.17.24:335][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/PushAway.PushAway to /Game/Project/Maps/UEDPIE_0_PushAway.PushAway (0.002464s)
+[2021.03.22-09.17.24:353][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.03.22-09.17.24:355][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.22-09.17.24:355][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.22-09.17.24:355][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.22-09.17.24:355][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.22-09.17.24:355][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.22-09.17.24:355][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.22-09.17.24:355][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.22-09.17.24:356][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.22-09.17.24:356][ 96]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.22-09.17.24:356][ 96]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.22-09.17.24:359][ 96]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.22-09.17.24:359][ 96]LogAudioMixer: Display: 1: FrontRight
+[2021.03.22-09.17.24:375][ 96]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2021.03.22-09.17.24:375][ 96]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.22-09.17.24:375][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.22-09.17.24:375][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.22-09.17.24:376][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.22-09.17.24:386][ 96]LogInit: FAudioDevice initialized.
+[2021.03.22-09.17.24:393][ 96]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.03.22-09.17.24:394][ 96]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_PushAway.PushAway up for play (max tick rate 0) at 2021.03.22-10.17.24
+[2021.03.22-09.17.24:394][ 96]LogWorld: Bringing up level for play took: 0.000596
+[2021.03.22-09.17.24:394][ 96]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.03.22-09.17.24:396][ 96]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.03.22-09.17.24:396][ 96]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.03.22-09.17.24:396][ 96]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.03.22-09.17.24:396][ 96]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.03.22-09.17.24:396][ 96]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.17.24:396][ 96]LogNet: GameNetDriver IpNetDriver_16 IpNetDriver listening on port 17777
+[2021.03.22-09.17.24:398][ 96]PIE: Server logged in
+[2021.03.22-09.17.24:398][ 96]PIE: Play in editor total start time 0,067 seconds.
+[2021.03.22-09.17.24:400][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.22-09.17.24:400][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.22-09.17.24:400][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.22-09.17.24:400][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.22-09.17.24:400][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.22-09.17.24:400][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.22-09.17.24:400][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.22-09.17.24:400][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.22-09.17.24:400][ 96]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.22-09.17.24:400][ 96]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.22-09.17.24:402][ 96]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.22-09.17.24:402][ 96]LogAudioMixer: Display: 1: FrontRight
+[2021.03.22-09.17.24:413][ 96]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2021.03.22-09.17.24:414][ 96]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.22-09.17.24:414][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.22-09.17.24:414][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.22-09.17.24:414][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.22-09.17.24:424][ 96]LogInit: FAudioDevice initialized.
+[2021.03.22-09.17.24:464][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.17.24:464][ 96]LogNet: Browse: 127.0.0.1:17777/Game/Project/Maps/FootballMap
+[2021.03.22-09.17.24:465][ 96]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.03.22-09.17.24:465][ 96]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.03.22-09.17.24:465][ 96]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.17.24:465][ 96]LogNet: Game client on port 17777, rate 10000
+[2021.03.22-09.17.24:468][ 96]PIE: Client logged in
+[2021.03.22-09.17.24:470][ 96]PIE: Play in editor total start time 0,138 seconds.
+[2021.03.22-09.17.24:471][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.22-09.17.24:471][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.22-09.17.24:471][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.22-09.17.24:471][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.22-09.17.24:471][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.22-09.17.24:471][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.22-09.17.24:471][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.22-09.17.24:471][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.22-09.17.24:472][ 96]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.22-09.17.24:472][ 96]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.22-09.17.24:474][ 96]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.22-09.17.24:474][ 96]LogAudioMixer: Display: 1: FrontRight
+[2021.03.22-09.17.24:486][ 96]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2021.03.22-09.17.24:486][ 96]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.22-09.17.24:486][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.22-09.17.24:486][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.22-09.17.24:487][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.22-09.17.24:496][ 96]LogInit: FAudioDevice initialized.
+[2021.03.22-09.17.24:546][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.17.24:547][ 96]LogNet: Browse: 127.0.0.1:17777/Game/Project/Maps/FootballMap
+[2021.03.22-09.17.24:547][ 96]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.03.22-09.17.24:547][ 96]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.03.22-09.17.24:547][ 96]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.17.24:547][ 96]LogNet: Game client on port 17777, rate 10000
+[2021.03.22-09.17.24:551][ 96]PIE: Client logged in
+[2021.03.22-09.17.24:553][ 96]PIE: Play in editor total start time 0,221 seconds.
+[2021.03.22-09.17.25:474][202]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54485
+[2021.03.22-09.17.25:474][202]LogHandshake: SendConnectChallenge. Timestamp: 1.168803, Cookie: 010125022075128072048053138087009040090239037066178204218243
+[2021.03.22-09.17.25:474][202]LogHandshake: SendChallengeResponse. Timestamp: 1.168803, Cookie: 010125022075128072048053138087009040090239037066178204218243
+[2021.03.22-09.17.25:482][203]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54485
+[2021.03.22-09.17.25:482][203]LogHandshake: SendChallengeAck. InCookie: 010125022075128072048053138087009040090239037066178204218243
+[2021.03.22-09.17.25:482][203]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54485
+[2021.03.22-09.17.25:482][203]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.17.25:482][203]LogNet: NotifyAcceptedConnection: Name: PushAway, TimeStamp: 03/22/21 10:17:25, [UNetConnection] RemoteAddr: 127.0.0.1:54485, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.17.25:482][203]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54485, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.17.25:483][203]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_16, Driver: PendingNetDriver IpNetDriver_17, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.17.25:490][204]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Project/Maps/UEDPIE_0_PushAway.PushAway: Accepted
+[2021.03.22-09.17.25:490][204]LogNet: Remote platform little endian=1
+[2021.03.22-09.17.25:490][204]LogNet: This platform little endian=1
+[2021.03.22-09.17.25:491][204]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.03.22-09.17.25:499][205]LogNet: Login request: ?Name=RTX-023-91D2556A45DA38BD13D21B89AF10C552 userId: NULL:RTX-023-91D2556A45DA38BD13D21B89AF10C552 platform: NULL
+[2021.03.22-09.17.25:499][205]LogNet: Welcomed by server (Level: /Game/Project/Maps/UEDPIE_0_PushAway, Game: /Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C)
+[2021.03.22-09.17.25:499][205]LogLoad: LoadMap: 127.0.0.1:17777/Game/Project/Maps/UEDPIE_0_PushAway?game=/Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C
+[2021.03.22-09.17.25:499][205]LogWorld: BeginTearingDown for /Temp/Untitled_9
+[2021.03.22-09.17.25:499][205]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.17.25:500][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.17.25:518][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.03.22-09.17.25:521][205]LogAIModule: Creating AISystem for world PushAway
+[2021.03.22-09.17.25:521][205]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022839A45000), frame # 513205
+[2021.03.22-09.17.25:521][205]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022890296480), frame # 513205
+[2021.03.22-09.17.25:522][205]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_1_PushAway.PushAway up for play (max tick rate 0) at 2021.03.22-10.17.25
+[2021.03.22-09.17.25:522][205]LogWorld: Bringing up level for play took: 0.000304
+[2021.03.22-09.17.25:523][205]LogLoad: Took 0.023163 seconds to LoadMap(/Game/Project/Maps/UEDPIE_0_PushAway)
+[2021.03.22-09.17.25:528][206]LogNet: Client netspeed is 10000
+[2021.03.22-09.17.25:528][206]LogNet: Join request: /Game/Project/Maps/FootballMap?Name=RTX-023-91D2556A45DA38BD13D21B89AF10C552?SplitscreenCount=1
+[2021.03.22-09.17.25:528][206]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.17.25:530][206]LogNet: Join succeeded: RTX-023-91D2556A45DA
+[2021.03.22-09.17.25:556][209]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54486
+[2021.03.22-09.17.25:556][209]LogHandshake: SendConnectChallenge. Timestamp: 1.251226, Cookie: 103086115212140094036229200148017097242173247160165085034146
+[2021.03.22-09.17.25:557][209]LogHandshake: SendChallengeResponse. Timestamp: 1.251226, Cookie: 103086115212140094036229200148017097242173247160165085034146
+[2021.03.22-09.17.25:564][210]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54486
+[2021.03.22-09.17.25:565][210]LogHandshake: SendChallengeAck. InCookie: 103086115212140094036229200148017097242173247160165085034146
+[2021.03.22-09.17.25:565][210]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54486
+[2021.03.22-09.17.25:565][210]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.17.25:565][210]LogNet: NotifyAcceptedConnection: Name: PushAway, TimeStamp: 03/22/21 10:17:25, [UNetConnection] RemoteAddr: 127.0.0.1:54486, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.17.25:565][210]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54486, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.17.25:566][210]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_17, Driver: PendingNetDriver IpNetDriver_18, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.17.25:573][211]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Project/Maps/UEDPIE_0_PushAway.PushAway: Accepted
+[2021.03.22-09.17.25:573][211]LogNet: Remote platform little endian=1
+[2021.03.22-09.17.25:573][211]LogNet: This platform little endian=1
+[2021.03.22-09.17.25:574][211]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.03.22-09.17.25:581][212]LogNet: Login request: ?Name=RTX-023-362060674A55F332375757A664836A40 userId: NULL:RTX-023-362060674A55F332375757A664836A40 platform: NULL
+[2021.03.22-09.17.25:582][212]LogNet: Welcomed by server (Level: /Game/Project/Maps/UEDPIE_0_PushAway, Game: /Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C)
+[2021.03.22-09.17.25:582][212]LogLoad: LoadMap: 127.0.0.1:17777/Game/Project/Maps/UEDPIE_0_PushAway?game=/Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C
+[2021.03.22-09.17.25:582][212]LogWorld: BeginTearingDown for /Temp/Untitled_10
+[2021.03.22-09.17.25:582][212]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.17.25:582][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.17.25:600][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.03.22-09.17.25:603][212]LogAIModule: Creating AISystem for world PushAway
+[2021.03.22-09.17.25:603][212]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000227C4693400), frame # 513212
+[2021.03.22-09.17.25:603][212]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022890550CC0), frame # 513212
+[2021.03.22-09.17.25:603][212]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_2_PushAway.PushAway up for play (max tick rate 0) at 2021.03.22-10.17.25
+[2021.03.22-09.17.25:603][212]LogWorld: Bringing up level for play took: 0.000307
+[2021.03.22-09.17.25:604][212]LogLoad: Took 0.021767 seconds to LoadMap(/Game/Project/Maps/UEDPIE_0_PushAway)
+[2021.03.22-09.17.25:611][213]LogNet: Client netspeed is 10000
+[2021.03.22-09.17.25:611][213]LogNet: Join request: /Game/Project/Maps/FootballMap?Name=RTX-023-362060674A55F332375757A664836A40?SplitscreenCount=1
+[2021.03.22-09.17.25:611][213]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.17.25:612][213]LogNet: Join succeeded: RTX-023-362060674A55
+[2021.03.22-09.17.25:687][221]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.17.25:880][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.17.25:880][230]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_2_PushAway
+[2021.03.22-09.17.25:881][230]LogSlate: Window 'ProjetFallGuys Preview [NetMode: Client 3] (64-bit/Windows) ' being destroyed
+[2021.03.22-09.17.25:882][230]LogWorld: UWorld::CleanupWorld for PushAway, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.17.25:883][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.17.25:890][230]LogNet: World NetDriver shutdown IpNetDriver_18 [GameNetDriver]
+[2021.03.22-09.17.25:890][230]LogNet: DestroyNamedNetDriver IpNetDriver_18 [GameNetDriver]
+[2021.03.22-09.17.25:890][230]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_18, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-362060674A55F332375757A664836A40, Channels: 7, Time: 2021.03.22-09.17.25
+[2021.03.22-09.17.25:890][230]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_18, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-362060674A55F332375757A664836A40
+[2021.03.22-09.17.25:891][230]LogExit: GameNetDriver IpNetDriver_18 shut down
+[2021.03.22-09.17.25:891][230]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_1_PushAway
+[2021.03.22-09.17.25:891][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.17.25:891][230]LogSlate: Window 'ProjetFallGuys Preview [NetMode: Client 2] (64-bit/Windows) ' being destroyed
+[2021.03.22-09.17.25:893][230]LogWorld: UWorld::CleanupWorld for PushAway, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.17.25:893][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.17.25:899][230]LogNet: World NetDriver shutdown IpNetDriver_17 [GameNetDriver]
+[2021.03.22-09.17.25:899][230]LogNet: DestroyNamedNetDriver IpNetDriver_17 [GameNetDriver]
+[2021.03.22-09.17.25:899][230]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_16, Driver: GameNetDriver IpNetDriver_17, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-91D2556A45DA38BD13D21B89AF10C552, Channels: 9, Time: 2021.03.22-09.17.25
+[2021.03.22-09.17.25:899][230]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_16, Driver: GameNetDriver IpNetDriver_17, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-91D2556A45DA38BD13D21B89AF10C552
+[2021.03.22-09.17.25:899][230]LogExit: GameNetDriver IpNetDriver_17 shut down
+[2021.03.22-09.17.25:900][230]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_0_PushAway
+[2021.03.22-09.17.25:900][230]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.03.22-09.17.25:900][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.17.25:900][230]LogWorld: UWorld::CleanupWorld for PushAway, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.17.25:901][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.17.25:908][230]LogNet: World NetDriver shutdown IpNetDriver_16 [GameNetDriver]
+[2021.03.22-09.17.25:908][230]LogNet: DestroyNamedNetDriver IpNetDriver_16 [GameNetDriver]
+[2021.03.22-09.17.25:908][230]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:54485, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-91D2556A45DA38BD13D21B89AF10C552
+[2021.03.22-09.17.25:908][230]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54485, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-91D2556A45DA38BD13D21B89AF10C552, Channels: 9, Time: 2021.03.22-09.17.25
+[2021.03.22-09.17.25:908][230]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54485, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-91D2556A45DA38BD13D21B89AF10C552
+[2021.03.22-09.17.25:908][230]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:54486, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:RTX-023-362060674A55F332375757A664836A40
+[2021.03.22-09.17.25:908][230]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54486, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:RTX-023-362060674A55F332375757A664836A40, Channels: 7, Time: 2021.03.22-09.17.25
+[2021.03.22-09.17.25:908][230]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54486, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:RTX-023-362060674A55F332375757A664836A40
+[2021.03.22-09.17.25:909][230]LogExit: GameNetDriver IpNetDriver_16 shut down
+[2021.03.22-09.17.25:909][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.22-09.17.25:913][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.17.25:967][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.17.25:969][230]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022890550CC0), frame # 513230
+[2021.03.22-09.17.25:969][230]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000227C4693400), frame # 513230
+[2021.03.22-09.17.25:969][230]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022890296480), frame # 513230
+[2021.03.22-09.17.25:969][230]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022839A45000), frame # 513230
+[2021.03.22-09.17.25:969][230]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002282F6F25C0), frame # 513230
+[2021.03.22-09.17.25:969][230]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002288F750A00), frame # 513230
+[2021.03.22-09.17.25:971][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.03.22-09.17.25:999][231]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.03.22-09.17.25:999][231]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.03.22-09.17.25:999][231]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.03.22-09.17.34:871][288]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.22-09.17.34:888][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.22-09.17.34:888][288]PIE: New page: PIE session: PushAway (22 mars 2021 à 11:17:34)
+[2021.03.22-09.17.34:888][288]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_PushAway
+[2021.03.22-09.17.34:890][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001486s)
+[2021.03.22-09.17.34:891][288]LogAIModule: Creating AISystem for world PushAway
+[2021.03.22-09.17.34:891][288]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000227CEF09000), frame # 514288
+[2021.03.22-09.17.34:891][288]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002288FE52FC0), frame # 514288
+[2021.03.22-09.17.34:891][288]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2021.03.22-09.17.34:891][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/PushAway.PushAway to /Game/Project/Maps/UEDPIE_0_PushAway.PushAway (0.002400s)
+[2021.03.22-09.17.34:908][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.03.22-09.17.34:911][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.22-09.17.34:911][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.22-09.17.34:911][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.22-09.17.34:911][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.22-09.17.34:911][288]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.22-09.17.34:911][288]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.22-09.17.34:911][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.22-09.17.34:911][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.22-09.17.34:911][288]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.22-09.17.34:911][288]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.22-09.17.34:913][288]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.22-09.17.34:914][288]LogAudioMixer: Display: 1: FrontRight
+[2021.03.22-09.17.34:927][288]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2021.03.22-09.17.34:927][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.22-09.17.34:927][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.22-09.17.34:928][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.22-09.17.34:928][288]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.22-09.17.34:938][288]LogInit: FAudioDevice initialized.
+[2021.03.22-09.17.34:944][288]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.03.22-09.17.34:945][288]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_PushAway.PushAway up for play (max tick rate 0) at 2021.03.22-10.17.34
+[2021.03.22-09.17.34:945][288]LogWorld: Bringing up level for play took: 0.000552
+[2021.03.22-09.17.34:945][288]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.03.22-09.17.34:947][288]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.03.22-09.17.34:947][288]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.03.22-09.17.34:947][288]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.03.22-09.17.34:947][288]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.03.22-09.17.34:947][288]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.17.34:947][288]LogNet: GameNetDriver IpNetDriver_19 IpNetDriver listening on port 17777
+[2021.03.22-09.17.34:948][288]PIE: Server logged in
+[2021.03.22-09.17.34:949][288]PIE: Play in editor total start time 0,061 seconds.
+[2021.03.22-09.17.34:950][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.22-09.17.34:950][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.22-09.17.34:950][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.22-09.17.34:950][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.22-09.17.34:950][288]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.22-09.17.34:950][288]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.22-09.17.34:950][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.22-09.17.34:950][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.22-09.17.34:951][288]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.22-09.17.34:951][288]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.22-09.17.34:953][288]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.22-09.17.34:953][288]LogAudioMixer: Display: 1: FrontRight
+[2021.03.22-09.17.34:963][288]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2021.03.22-09.17.34:964][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.22-09.17.34:964][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.22-09.17.34:964][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.22-09.17.34:964][288]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.22-09.17.34:974][288]LogInit: FAudioDevice initialized.
+[2021.03.22-09.17.35:013][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.17.35:013][288]LogNet: Browse: 127.0.0.1:17777/Game/Project/Maps/FootballMap
+[2021.03.22-09.17.35:013][288]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.03.22-09.17.35:014][288]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.03.22-09.17.35:014][288]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.17.35:014][288]LogNet: Game client on port 17777, rate 10000
+[2021.03.22-09.17.35:016][288]PIE: Client logged in
+[2021.03.22-09.17.35:017][288]PIE: Play in editor total start time 0,13 seconds.
+[2021.03.22-09.17.35:019][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.22-09.17.35:019][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.22-09.17.35:019][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.22-09.17.35:019][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.22-09.17.35:019][288]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.22-09.17.35:019][288]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.22-09.17.35:019][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.22-09.17.35:019][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.22-09.17.35:019][288]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.22-09.17.35:019][288]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.22-09.17.35:021][288]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.22-09.17.35:022][288]LogAudioMixer: Display: 1: FrontRight
+[2021.03.22-09.17.35:033][288]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2021.03.22-09.17.35:033][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.22-09.17.35:033][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.22-09.17.35:033][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.22-09.17.35:034][288]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.22-09.17.35:044][288]LogInit: FAudioDevice initialized.
+[2021.03.22-09.17.35:080][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.17.35:080][288]LogNet: Browse: 127.0.0.1:17777/Game/Project/Maps/FootballMap
+[2021.03.22-09.17.35:081][288]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.03.22-09.17.35:081][288]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.03.22-09.17.35:081][288]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.17.35:081][288]LogNet: Game client on port 17777, rate 10000
+[2021.03.22-09.17.35:083][288]PIE: Client logged in
+[2021.03.22-09.17.35:084][288]PIE: Play in editor total start time 0,197 seconds.
+[2021.03.22-09.17.36:029][397]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54489
+[2021.03.22-09.17.36:029][397]LogHandshake: SendConnectChallenge. Timestamp: 1.166588, Cookie: 054149176093180029219095163132255246021184232022211241117220
+[2021.03.22-09.17.36:030][397]LogHandshake: SendChallengeResponse. Timestamp: 1.166588, Cookie: 054149176093180029219095163132255246021184232022211241117220
+[2021.03.22-09.17.36:038][398]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54489
+[2021.03.22-09.17.36:038][398]LogHandshake: SendChallengeAck. InCookie: 054149176093180029219095163132255246021184232022211241117220
+[2021.03.22-09.17.36:038][398]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54489
+[2021.03.22-09.17.36:038][398]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.17.36:038][398]LogNet: NotifyAcceptedConnection: Name: PushAway, TimeStamp: 03/22/21 10:17:36, [UNetConnection] RemoteAddr: 127.0.0.1:54489, Name: IpConnection_22, Driver: GameNetDriver IpNetDriver_19, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.17.36:038][398]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54489, Name: IpConnection_22, Driver: GameNetDriver IpNetDriver_19, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.17.36:039][398]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_20, Driver: PendingNetDriver IpNetDriver_20, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.17.36:046][399]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Project/Maps/UEDPIE_0_PushAway.PushAway: Accepted
+[2021.03.22-09.17.36:046][399]LogNet: Remote platform little endian=1
+[2021.03.22-09.17.36:046][399]LogNet: This platform little endian=1
+[2021.03.22-09.17.36:047][399]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.03.22-09.17.36:054][400]LogNet: Login request: ?Name=RTX-023-F75F569C4280D911D5336889220E689A userId: NULL:RTX-023-F75F569C4280D911D5336889220E689A platform: NULL
+[2021.03.22-09.17.36:055][400]LogNet: Welcomed by server (Level: /Game/Project/Maps/UEDPIE_0_PushAway, Game: /Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C)
+[2021.03.22-09.17.36:055][400]LogLoad: LoadMap: 127.0.0.1:17777/Game/Project/Maps/UEDPIE_0_PushAway?game=/Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C
+[2021.03.22-09.17.36:055][400]LogWorld: BeginTearingDown for /Temp/Untitled_11
+[2021.03.22-09.17.36:055][400]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.17.36:055][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.17.36:073][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.03.22-09.17.36:076][400]LogAIModule: Creating AISystem for world PushAway
+[2021.03.22-09.17.36:076][400]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022838DF6A00), frame # 514400
+[2021.03.22-09.17.36:076][400]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002288DBA07C0), frame # 514400
+[2021.03.22-09.17.36:077][400]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_1_PushAway.PushAway up for play (max tick rate 0) at 2021.03.22-10.17.36
+[2021.03.22-09.17.36:077][400]LogWorld: Bringing up level for play took: 0.000317
+[2021.03.22-09.17.36:077][400]LogLoad: Took 0.021849 seconds to LoadMap(/Game/Project/Maps/UEDPIE_0_PushAway)
+[2021.03.22-09.17.36:082][401]LogNet: Client netspeed is 10000
+[2021.03.22-09.17.36:082][401]LogNet: Join request: /Game/Project/Maps/FootballMap?Name=RTX-023-F75F569C4280D911D5336889220E689A?SplitscreenCount=1
+[2021.03.22-09.17.36:082][401]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.17.36:083][401]LogNet: Join succeeded: RTX-023-F75F569C4280
+[2021.03.22-09.17.36:102][403]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54490
+[2021.03.22-09.17.36:102][403]LogHandshake: SendConnectChallenge. Timestamp: 1.239363, Cookie: 172021251128122196030120032066141234155123019093176084084094
+[2021.03.22-09.17.36:103][403]LogHandshake: SendChallengeResponse. Timestamp: 1.239363, Cookie: 172021251128122196030120032066141234155123019093176084084094
+[2021.03.22-09.17.36:111][404]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54490
+[2021.03.22-09.17.36:111][404]LogHandshake: SendChallengeAck. InCookie: 172021251128122196030120032066141234155123019093176084084094
+[2021.03.22-09.17.36:111][404]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54490
+[2021.03.22-09.17.36:111][404]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.17.36:111][404]LogNet: NotifyAcceptedConnection: Name: PushAway, TimeStamp: 03/22/21 10:17:36, [UNetConnection] RemoteAddr: 127.0.0.1:54490, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_19, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.17.36:111][404]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54490, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_19, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.17.36:112][404]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_21, Driver: PendingNetDriver IpNetDriver_21, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.17.36:119][405]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Project/Maps/UEDPIE_0_PushAway.PushAway: Accepted
+[2021.03.22-09.17.36:119][405]LogNet: Remote platform little endian=1
+[2021.03.22-09.17.36:119][405]LogNet: This platform little endian=1
+[2021.03.22-09.17.36:120][405]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.03.22-09.17.36:127][406]LogNet: Login request: ?Name=RTX-023-8E97E46A4B6F1FA8148A8DBBD9B97407 userId: NULL:RTX-023-8E97E46A4B6F1FA8148A8DBBD9B97407 platform: NULL
+[2021.03.22-09.17.36:128][406]LogNet: Welcomed by server (Level: /Game/Project/Maps/UEDPIE_0_PushAway, Game: /Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C)
+[2021.03.22-09.17.36:128][406]LogLoad: LoadMap: 127.0.0.1:17777/Game/Project/Maps/UEDPIE_0_PushAway?game=/Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C
+[2021.03.22-09.17.36:128][406]LogWorld: BeginTearingDown for /Temp/Untitled_12
+[2021.03.22-09.17.36:128][406]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.17.36:128][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.17.36:146][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.03.22-09.17.36:149][406]LogAIModule: Creating AISystem for world PushAway
+[2021.03.22-09.17.36:149][406]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000228901CAA00), frame # 514406
+[2021.03.22-09.17.36:149][406]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022890553600), frame # 514406
+[2021.03.22-09.17.36:150][406]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_2_PushAway.PushAway up for play (max tick rate 0) at 2021.03.22-10.17.36
+[2021.03.22-09.17.36:150][406]LogWorld: Bringing up level for play took: 0.000588
+[2021.03.22-09.17.36:151][406]LogLoad: Took 0.022663 seconds to LoadMap(/Game/Project/Maps/UEDPIE_0_PushAway)
+[2021.03.22-09.17.36:158][407]LogNet: Client netspeed is 10000
+[2021.03.22-09.17.36:158][407]LogNet: Join request: /Game/Project/Maps/FootballMap?Name=RTX-023-8E97E46A4B6F1FA8148A8DBBD9B97407?SplitscreenCount=1
+[2021.03.22-09.17.36:158][407]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.17.36:160][407]LogNet: Join succeeded: RTX-023-8E97E46A4B6F
+[2021.03.22-09.17.36:269][419]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.17.37:088][517]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.17.37:113][520]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.17.38:120][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.17.38:120][637]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_2_PushAway
+[2021.03.22-09.17.38:120][637]LogSlate: Window 'ProjetFallGuys Preview [NetMode: Client 3] (64-bit/Windows) ' being destroyed
+[2021.03.22-09.17.38:122][637]LogWorld: UWorld::CleanupWorld for PushAway, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.17.38:123][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.17.38:131][637]LogNet: World NetDriver shutdown IpNetDriver_21 [GameNetDriver]
+[2021.03.22-09.17.38:131][637]LogNet: DestroyNamedNetDriver IpNetDriver_21 [GameNetDriver]
+[2021.03.22-09.17.38:131][637]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_21, Driver: GameNetDriver IpNetDriver_21, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-8E97E46A4B6F1FA8148A8DBBD9B97407, Channels: 9, Time: 2021.03.22-09.17.38
+[2021.03.22-09.17.38:131][637]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_21, Driver: GameNetDriver IpNetDriver_21, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-8E97E46A4B6F1FA8148A8DBBD9B97407
+[2021.03.22-09.17.38:131][637]LogExit: GameNetDriver IpNetDriver_21 shut down
+[2021.03.22-09.17.38:132][637]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_1_PushAway
+[2021.03.22-09.17.38:132][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.17.38:132][637]LogSlate: Window 'ProjetFallGuys Preview [NetMode: Client 2] (64-bit/Windows) ' being destroyed
+[2021.03.22-09.17.38:135][637]LogWorld: UWorld::CleanupWorld for PushAway, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.17.38:136][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.17.38:141][637]LogNet: World NetDriver shutdown IpNetDriver_20 [GameNetDriver]
+[2021.03.22-09.17.38:141][637]LogNet: DestroyNamedNetDriver IpNetDriver_20 [GameNetDriver]
+[2021.03.22-09.17.38:141][637]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_20, Driver: GameNetDriver IpNetDriver_20, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-F75F569C4280D911D5336889220E689A, Channels: 10, Time: 2021.03.22-09.17.38
+[2021.03.22-09.17.38:141][637]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_20, Driver: GameNetDriver IpNetDriver_20, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-F75F569C4280D911D5336889220E689A
+[2021.03.22-09.17.38:141][637]LogExit: GameNetDriver IpNetDriver_20 shut down
+[2021.03.22-09.17.38:141][637]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_0_PushAway
+[2021.03.22-09.17.38:142][637]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.03.22-09.17.38:142][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.17.38:142][637]LogWorld: UWorld::CleanupWorld for PushAway, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.17.38:142][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.17.38:149][637]LogNet: World NetDriver shutdown IpNetDriver_19 [GameNetDriver]
+[2021.03.22-09.17.38:149][637]LogNet: DestroyNamedNetDriver IpNetDriver_19 [GameNetDriver]
+[2021.03.22-09.17.38:149][637]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:54490, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_19, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:RTX-023-8E97E46A4B6F1FA8148A8DBBD9B97407
+[2021.03.22-09.17.38:149][637]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54490, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_19, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:RTX-023-8E97E46A4B6F1FA8148A8DBBD9B97407, Channels: 9, Time: 2021.03.22-09.17.38
+[2021.03.22-09.17.38:149][637]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54490, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_19, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:RTX-023-8E97E46A4B6F1FA8148A8DBBD9B97407
+[2021.03.22-09.17.38:149][637]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:54489, Name: IpConnection_22, Driver: GameNetDriver IpNetDriver_19, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-F75F569C4280D911D5336889220E689A
+[2021.03.22-09.17.38:149][637]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54489, Name: IpConnection_22, Driver: GameNetDriver IpNetDriver_19, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-F75F569C4280D911D5336889220E689A, Channels: 10, Time: 2021.03.22-09.17.38
+[2021.03.22-09.17.38:150][637]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54489, Name: IpConnection_22, Driver: GameNetDriver IpNetDriver_19, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-F75F569C4280D911D5336889220E689A
+[2021.03.22-09.17.38:150][637]LogExit: GameNetDriver IpNetDriver_19 shut down
+[2021.03.22-09.17.38:150][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.22-09.17.38:154][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.17.38:197][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.17.38:212][637]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022890553600), frame # 514637
+[2021.03.22-09.17.38:212][637]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000228901CAA00), frame # 514637
+[2021.03.22-09.17.38:212][637]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002288DBA07C0), frame # 514637
+[2021.03.22-09.17.38:212][637]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022838DF6A00), frame # 514637
+[2021.03.22-09.17.38:212][637]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002288FE52FC0), frame # 514637
+[2021.03.22-09.17.38:212][637]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000227CEF09000), frame # 514637
+[2021.03.22-09.17.38:214][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.03.22-09.17.38:243][638]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.03.22-09.17.38:243][638]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.03.22-09.17.38:243][638]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.03.22-09.18.05:664][739]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/MapPieces.MapPieces
+[2021.03.22-09.18.05:845][739]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.18.05:845][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.18.06:271][740]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2021.03.22-09.18.21:706][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapPieces" FILE="../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Content/MapPieces.uasset" SILENT=true
+[2021.03.22-09.18.21:717][492]LogSavePackage: Moving '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/MapPieces86A5BF0E4F5BCEA53362FA9AEE5AC686.tmp' to '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Content/MapPieces.uasset'
+[2021.03.22-09.18.21:732][492]AssetCheck: New page: Asset Save: MapPieces
+[2021.03.22-09.18.21:733][492]LogContentValidation: Display: Validating StaticMesh /Game/MapPieces.MapPieces
+[2021.03.22-09.18.23:556][697]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.18.23:556][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.18.26:698][ 40]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/MapCenter.MapCenter
+[2021.03.22-09.18.26:849][ 40]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.18.26:849][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.18.33:437][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapCenter" FILE="../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Content/MapCenter.uasset" SILENT=true
+[2021.03.22-09.18.33:448][763]LogSavePackage: Moving '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/MapCenter6BB45C2D4E4DE90B00F558A9BA36006B.tmp' to '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Content/MapCenter.uasset'
+[2021.03.22-09.18.33:464][763]AssetCheck: New page: Asset Save: MapCenter
+[2021.03.22-09.18.33:464][763]LogContentValidation: Display: Validating StaticMesh /Game/MapCenter.MapCenter
+[2021.03.22-09.18.35:014][934]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.18.35:014][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.18.36:627][102]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.22-09.18.36:645][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.22-09.18.36:645][102]PIE: New page: PIE session: PushAway (22 mars 2021 à 11:18:36)
+[2021.03.22-09.18.36:645][102]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_PushAway
+[2021.03.22-09.18.36:646][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001478s)
+[2021.03.22-09.18.36:647][102]LogAIModule: Creating AISystem for world PushAway
+[2021.03.22-09.18.36:647][102]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000228AB665000), frame # 521102
+[2021.03.22-09.18.36:647][102]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002286FE856C0), frame # 521102
+[2021.03.22-09.18.36:647][102]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2021.03.22-09.18.36:647][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/PushAway.PushAway to /Game/Project/Maps/UEDPIE_0_PushAway.PushAway (0.002375s)
+[2021.03.22-09.18.36:698][102]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2021.03.22-09.18.36:700][102]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.22-09.18.36:700][102]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.22-09.18.36:700][102]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.22-09.18.36:700][102]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.22-09.18.36:700][102]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.22-09.18.36:700][102]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.22-09.18.36:700][102]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.22-09.18.36:700][102]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.22-09.18.36:701][102]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.22-09.18.36:701][102]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.22-09.18.36:703][102]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.22-09.18.36:703][102]LogAudioMixer: Display: 1: FrontRight
+[2021.03.22-09.18.36:718][102]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2021.03.22-09.18.36:718][102]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.22-09.18.36:718][102]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.22-09.18.36:718][102]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.22-09.18.36:718][102]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.22-09.18.36:729][102]LogInit: FAudioDevice initialized.
+[2021.03.22-09.18.36:737][102]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.03.22-09.18.36:738][102]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_PushAway.PushAway up for play (max tick rate 0) at 2021.03.22-10.18.36
+[2021.03.22-09.18.36:738][102]LogWorld: Bringing up level for play took: 0.000545
+[2021.03.22-09.18.36:738][102]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.03.22-09.18.36:740][102]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.03.22-09.18.36:740][102]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.03.22-09.18.36:740][102]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.03.22-09.18.36:740][102]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.03.22-09.18.36:740][102]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.18.36:740][102]LogNet: GameNetDriver IpNetDriver_22 IpNetDriver listening on port 17777
+[2021.03.22-09.18.36:741][102]PIE: Server logged in
+[2021.03.22-09.18.36:742][102]PIE: Play in editor total start time 0,098 seconds.
+[2021.03.22-09.18.36:743][102]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.22-09.18.36:743][102]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.22-09.18.36:743][102]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.22-09.18.36:743][102]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.22-09.18.36:743][102]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.22-09.18.36:743][102]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.22-09.18.36:743][102]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.22-09.18.36:743][102]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.22-09.18.36:744][102]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.22-09.18.36:744][102]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.22-09.18.36:746][102]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.22-09.18.36:746][102]LogAudioMixer: Display: 1: FrontRight
+[2021.03.22-09.18.36:757][102]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2021.03.22-09.18.36:757][102]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.22-09.18.36:757][102]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.22-09.18.36:757][102]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.22-09.18.36:757][102]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.22-09.18.36:768][102]LogInit: FAudioDevice initialized.
+[2021.03.22-09.18.36:796][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.18.36:796][102]LogNet: Browse: 127.0.0.1:17777/Game/Project/Maps/FootballMap
+[2021.03.22-09.18.36:797][102]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.03.22-09.18.36:797][102]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.03.22-09.18.36:797][102]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.18.36:797][102]LogNet: Game client on port 17777, rate 10000
+[2021.03.22-09.18.36:800][102]PIE: Client logged in
+[2021.03.22-09.18.36:801][102]PIE: Play in editor total start time 0,157 seconds.
+[2021.03.22-09.18.36:802][102]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.22-09.18.36:802][102]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.22-09.18.36:802][102]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.22-09.18.36:802][102]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.22-09.18.36:802][102]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.22-09.18.36:802][102]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.22-09.18.36:802][102]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.22-09.18.36:802][102]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.22-09.18.36:803][102]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.22-09.18.36:803][102]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.22-09.18.36:806][102]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.22-09.18.36:806][102]LogAudioMixer: Display: 1: FrontRight
+[2021.03.22-09.18.36:818][102]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2021.03.22-09.18.36:818][102]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.22-09.18.36:818][102]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.22-09.18.36:819][102]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.22-09.18.36:819][102]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.22-09.18.36:830][102]LogInit: FAudioDevice initialized.
+[2021.03.22-09.18.36:879][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.18.36:880][102]LogNet: Browse: 127.0.0.1:17777/Game/Project/Maps/FootballMap
+[2021.03.22-09.18.36:880][102]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.03.22-09.18.36:880][102]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.03.22-09.18.36:881][102]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.18.36:881][102]LogNet: Game client on port 17777, rate 10000
+[2021.03.22-09.18.36:883][102]PIE: Client logged in
+[2021.03.22-09.18.36:885][102]PIE: Play in editor total start time 0,241 seconds.
+[2021.03.22-09.18.37:806][210]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56161
+[2021.03.22-09.18.37:806][210]LogHandshake: SendConnectChallenge. Timestamp: 1.186358, Cookie: 111047002003236042214152109062050201198176078013142223176039
+[2021.03.22-09.18.37:806][210]LogHandshake: SendChallengeResponse. Timestamp: 1.186358, Cookie: 111047002003236042214152109062050201198176078013142223176039
+[2021.03.22-09.18.37:814][211]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56161
+[2021.03.22-09.18.37:814][211]LogHandshake: SendChallengeAck. InCookie: 111047002003236042214152109062050201198176078013142223176039
+[2021.03.22-09.18.37:814][211]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56161
+[2021.03.22-09.18.37:814][211]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.18.37:814][211]LogNet: NotifyAcceptedConnection: Name: PushAway, TimeStamp: 03/22/21 10:18:37, [UNetConnection] RemoteAddr: 127.0.0.1:56161, Name: IpConnection_26, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.18.37:814][211]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56161, Name: IpConnection_26, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.18.37:815][211]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_24, Driver: PendingNetDriver IpNetDriver_23, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.18.37:822][212]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Project/Maps/UEDPIE_0_PushAway.PushAway: Accepted
+[2021.03.22-09.18.37:822][212]LogNet: Remote platform little endian=1
+[2021.03.22-09.18.37:822][212]LogNet: This platform little endian=1
+[2021.03.22-09.18.37:823][212]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.03.22-09.18.37:831][213]LogNet: Login request: ?Name=RTX-023-971459A9486A74E31EDDF7973525B6DE userId: NULL:RTX-023-971459A9486A74E31EDDF7973525B6DE platform: NULL
+[2021.03.22-09.18.37:831][213]LogNet: Welcomed by server (Level: /Game/Project/Maps/UEDPIE_0_PushAway, Game: /Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C)
+[2021.03.22-09.18.37:831][213]LogLoad: LoadMap: 127.0.0.1:17777/Game/Project/Maps/UEDPIE_0_PushAway?game=/Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C
+[2021.03.22-09.18.37:831][213]LogWorld: BeginTearingDown for /Temp/Untitled_13
+[2021.03.22-09.18.37:831][213]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.18.37:831][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.18.37:859][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.03.22-09.18.37:862][213]LogAIModule: Creating AISystem for world PushAway
+[2021.03.22-09.18.37:862][213]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022868308C00), frame # 521213
+[2021.03.22-09.18.37:862][213]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000228678956C0), frame # 521213
+[2021.03.22-09.18.37:863][213]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_1_PushAway.PushAway up for play (max tick rate 0) at 2021.03.22-10.18.37
+[2021.03.22-09.18.37:863][213]LogWorld: Bringing up level for play took: 0.000288
+[2021.03.22-09.18.37:863][213]LogLoad: Took 0.032213 seconds to LoadMap(/Game/Project/Maps/UEDPIE_0_PushAway)
+[2021.03.22-09.18.37:870][214]LogNet: Client netspeed is 10000
+[2021.03.22-09.18.37:870][214]LogNet: Join request: /Game/Project/Maps/FootballMap?Name=RTX-023-971459A9486A74E31EDDF7973525B6DE?SplitscreenCount=1
+[2021.03.22-09.18.37:870][214]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.18.37:872][214]LogNet: Join succeeded: RTX-023-971459A9486A
+[2021.03.22-09.18.37:897][217]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56162
+[2021.03.22-09.18.37:897][217]LogHandshake: SendConnectChallenge. Timestamp: 1.277415, Cookie: 189095130153035036213234180029000188204156079108020009066224
+[2021.03.22-09.18.37:899][217]LogHandshake: SendChallengeResponse. Timestamp: 1.277415, Cookie: 189095130153035036213234180029000188204156079108020009066224
+[2021.03.22-09.18.37:906][218]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56162
+[2021.03.22-09.18.37:906][218]LogHandshake: SendChallengeAck. InCookie: 189095130153035036213234180029000188204156079108020009066224
+[2021.03.22-09.18.37:906][218]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56162
+[2021.03.22-09.18.37:906][218]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.18.37:906][218]LogNet: NotifyAcceptedConnection: Name: PushAway, TimeStamp: 03/22/21 10:18:37, [UNetConnection] RemoteAddr: 127.0.0.1:56162, Name: IpConnection_27, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.18.37:906][218]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56162, Name: IpConnection_27, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.18.37:907][218]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_25, Driver: PendingNetDriver IpNetDriver_24, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.18.37:914][219]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Project/Maps/UEDPIE_0_PushAway.PushAway: Accepted
+[2021.03.22-09.18.37:914][219]LogNet: Remote platform little endian=1
+[2021.03.22-09.18.37:914][219]LogNet: This platform little endian=1
+[2021.03.22-09.18.37:915][219]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.03.22-09.18.37:922][220]LogNet: Login request: ?Name=RTX-023-0CD971EB4A37E5726E60DEA1C8DFCB4B userId: NULL:RTX-023-0CD971EB4A37E5726E60DEA1C8DFCB4B platform: NULL
+[2021.03.22-09.18.37:923][220]LogNet: Welcomed by server (Level: /Game/Project/Maps/UEDPIE_0_PushAway, Game: /Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C)
+[2021.03.22-09.18.37:923][220]LogLoad: LoadMap: 127.0.0.1:17777/Game/Project/Maps/UEDPIE_0_PushAway?game=/Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C
+[2021.03.22-09.18.37:923][220]LogWorld: BeginTearingDown for /Temp/Untitled_14
+[2021.03.22-09.18.37:923][220]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.18.37:923][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.18.37:944][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.03.22-09.18.37:947][220]LogAIModule: Creating AISystem for world PushAway
+[2021.03.22-09.18.37:947][220]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000227CEF09000), frame # 521220
+[2021.03.22-09.18.37:947][220]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022867897380), frame # 521220
+[2021.03.22-09.18.37:948][220]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_2_PushAway.PushAway up for play (max tick rate 0) at 2021.03.22-10.18.37
+[2021.03.22-09.18.37:948][220]LogWorld: Bringing up level for play took: 0.000291
+[2021.03.22-09.18.37:948][220]LogLoad: Took 0.024847 seconds to LoadMap(/Game/Project/Maps/UEDPIE_0_PushAway)
+[2021.03.22-09.18.37:955][221]LogNet: Client netspeed is 10000
+[2021.03.22-09.18.37:955][221]LogNet: Join request: /Game/Project/Maps/FootballMap?Name=RTX-023-0CD971EB4A37E5726E60DEA1C8DFCB4B?SplitscreenCount=1
+[2021.03.22-09.18.37:955][221]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.18.37:956][221]LogNet: Join succeeded: RTX-023-0CD971EB4A37
+[2021.03.22-09.18.38:078][234]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.18.38:904][332]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.18.38:929][335]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.18.38:996][343]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.18.40:915][572]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.18.40:924][573]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.18.45:719][120]LogBlueprintUserMessages: [BP_LobbyGameInstance_C_18] Server: Online Session Create
+[2021.03.22-09.18.45:720][120]LogNet: Browse: /Game/Project/Maps/FootballMap?listen
+[2021.03.22-09.18.45:720][120]LogLoad: LoadMap: /Game/Project/Maps/FootballMap?listen
+[2021.03.22-09.18.45:720][120]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_0_PushAway
+[2021.03.22-09.18.45:720][120]LogNet: World NetDriver shutdown IpNetDriver_22 [GameNetDriver]
+[2021.03.22-09.18.45:720][120]LogNet: DestroyNamedNetDriver IpNetDriver_22 [GameNetDriver]
+[2021.03.22-09.18.45:720][120]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56162, Name: IpConnection_27, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:RTX-023-0CD971EB4A37E5726E60DEA1C8DFCB4B
+[2021.03.22-09.18.45:720][120]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56162, Name: IpConnection_27, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:RTX-023-0CD971EB4A37E5726E60DEA1C8DFCB4B, Channels: 12, Time: 2021.03.22-09.18.45
+[2021.03.22-09.18.45:720][120]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56162, Name: IpConnection_27, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:RTX-023-0CD971EB4A37E5726E60DEA1C8DFCB4B
+[2021.03.22-09.18.45:720][120]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56161, Name: IpConnection_26, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-971459A9486A74E31EDDF7973525B6DE
+[2021.03.22-09.18.45:721][120]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56161, Name: IpConnection_26, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-971459A9486A74E31EDDF7973525B6DE, Channels: 12, Time: 2021.03.22-09.18.45
+[2021.03.22-09.18.45:721][120]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56161, Name: IpConnection_26, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-971459A9486A74E31EDDF7973525B6DE
+[2021.03.22-09.18.45:721][120]LogExit: GameNetDriver IpNetDriver_22 shut down
+[2021.03.22-09.18.45:721][120]LogWorld: UWorld::CleanupWorld for PushAway, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.18.45:721][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.18.45:741][120]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002286FE856C0), frame # 522120
+[2021.03.22-09.18.45:741][120]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000228AB665000), frame # 522120
+[2021.03.22-09.18.45:744][120]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.03.22-09.18.45:747][120]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_FootballMap
+[2021.03.22-09.18.45:753][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005925s)
+[2021.03.22-09.18.45:754][120]LogAIModule: Creating AISystem for world FootballMap
+[2021.03.22-09.18.45:754][120]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000228AB667200), frame # 522120
+[2021.03.22-09.18.45:754][120]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000227E100FD80), frame # 522120
+[2021.03.22-09.18.45:754][120]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2021.03.22-09.18.45:754][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/FootballMap.FootballMap to /Game/Project/Maps/UEDPIE_0_FootballMap.FootballMap (0.006874s)
+[2021.03.22-09.18.45:754][120]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.03.22-09.18.45:754][120]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.03.22-09.18.45:754][120]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.03.22-09.18.45:754][120]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.03.22-09.18.45:754][120]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.03.22-09.18.45:754][120]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.18.45:754][120]LogNet: GameNetDriver IpNetDriver_25 IpNetDriver listening on port 7777
+[2021.03.22-09.18.45:755][120]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_FootballMap.FootballMap up for play (max tick rate 0) at 2021.03.22-10.18.45
+[2021.03.22-09.18.45:756][120]LogWorld: Bringing up level for play took: 0.000883
+[2021.03.22-09.18.45:758][120]LogLoad: Took 0.038392 seconds to LoadMap(/Game/Project/Maps/UEDPIE_0_FootballMap)
+[2021.03.22-09.18.45:759][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.18.45:759][120]LogBlueprintUserMessages: [BP_MainHUD_C_0] Server: Game
+[2021.03.22-09.18.45:759][120]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = FailureReceived, ErrorString = Host closed the connection., Driver = GameNetDriver IpNetDriver_23
+[2021.03.22-09.18.45:759][120]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2021.03.22-09.18.45:759][120]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2021.03.22-09.18.45:759][120]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_24, Driver: GameNetDriver IpNetDriver_23, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-971459A9486A74E31EDDF7973525B6DE, Channels: 12, Time: 2021.03.22-09.18.45
+[2021.03.22-09.18.45:759][120]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_24, Driver: GameNetDriver IpNetDriver_23, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-971459A9486A74E31EDDF7973525B6DE
+[2021.03.22-09.18.45:760][120]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_23
+[2021.03.22-09.18.45:760][120]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = FailureReceived, ErrorString = Host closed the connection., Driver = GameNetDriver IpNetDriver_24
+[2021.03.22-09.18.45:760][120]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_25, Driver: GameNetDriver IpNetDriver_24, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-0CD971EB4A37E5726E60DEA1C8DFCB4B, Channels: 12, Time: 2021.03.22-09.18.45
+[2021.03.22-09.18.45:760][120]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_25, Driver: GameNetDriver IpNetDriver_24, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-0CD971EB4A37E5726E60DEA1C8DFCB4B
+[2021.03.22-09.18.45:760][120]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_24
+[2021.03.22-09.18.45:784][121]LogNet: Browse: /Game/Project/Maps/FootballMap?closed
+[2021.03.22-09.18.45:784][121]LogNet: Connection failed; returning to Entry
+[2021.03.22-09.18.45:784][121]LogLoad: LoadMap: /Game/Project/Maps/FootballMap?closed
+[2021.03.22-09.18.45:784][121]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_1_PushAway
+[2021.03.22-09.18.45:784][121]LogNet: World NetDriver shutdown IpNetDriver_23 [GameNetDriver]
+[2021.03.22-09.18.45:784][121]LogNet: DestroyNamedNetDriver IpNetDriver_23 [GameNetDriver]
+[2021.03.22-09.18.45:784][121]LogExit: GameNetDriver IpNetDriver_23 shut down
+[2021.03.22-09.18.45:785][121]LogWorld: UWorld::CleanupWorld for PushAway, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.18.45:785][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.18.45:804][121]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000228678956C0), frame # 522121
+[2021.03.22-09.18.45:804][121]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022868308C00), frame # 522121
+[2021.03.22-09.18.45:808][121]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.03.22-09.18.45:809][121]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_1_FootballMap
+[2021.03.22-09.18.45:815][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005738s)
+[2021.03.22-09.18.45:815][121]LogAIModule: Creating AISystem for world FootballMap
+[2021.03.22-09.18.45:815][121]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022800388C00), frame # 522121
+[2021.03.22-09.18.45:815][121]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000227E100CE00), frame # 522121
+[2021.03.22-09.18.45:815][121]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2021.03.22-09.18.45:815][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/FootballMap.FootballMap to /Game/Project/Maps/UEDPIE_1_FootballMap.FootballMap (0.006688s)
+[2021.03.22-09.18.45:816][121]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.03.22-09.18.45:816][121]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_1_FootballMap.FootballMap up for play (max tick rate 0) at 2021.03.22-10.18.45
+[2021.03.22-09.18.45:817][121]LogWorld: Bringing up level for play took: 0.000819
+[2021.03.22-09.18.45:819][121]LogLoad: Took 0.035151 seconds to LoadMap(/Game/Project/Maps/UEDPIE_1_FootballMap)
+[2021.03.22-09.18.45:839][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.03.22-09.18.45:840][121]LogNet: Browse: /Game/Project/Maps/FootballMap?closed
+[2021.03.22-09.18.45:840][121]LogNet: Connection failed; returning to Entry
+[2021.03.22-09.18.45:840][121]LogLoad: LoadMap: /Game/Project/Maps/FootballMap?closed
+[2021.03.22-09.18.45:841][121]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_2_PushAway
+[2021.03.22-09.18.45:841][121]LogNet: World NetDriver shutdown IpNetDriver_24 [GameNetDriver]
+[2021.03.22-09.18.45:841][121]LogNet: DestroyNamedNetDriver IpNetDriver_24 [GameNetDriver]
+[2021.03.22-09.18.45:841][121]LogExit: GameNetDriver IpNetDriver_24 shut down
+[2021.03.22-09.18.45:841][121]LogWorld: UWorld::CleanupWorld for PushAway, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.18.45:841][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.18.45:900][121]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022867897380), frame # 522121
+[2021.03.22-09.18.45:900][121]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000227CEF09000), frame # 522121
+[2021.03.22-09.18.45:903][121]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.03.22-09.18.45:904][121]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_2_FootballMap
+[2021.03.22-09.18.45:910][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005894s)
+[2021.03.22-09.18.45:910][121]LogAIModule: Creating AISystem for world FootballMap
+[2021.03.22-09.18.45:910][121]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022817487200), frame # 522121
+[2021.03.22-09.18.45:910][121]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022822CB74C0), frame # 522121
+[2021.03.22-09.18.45:910][121]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2021.03.22-09.18.45:910][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/FootballMap.FootballMap to /Game/Project/Maps/UEDPIE_2_FootballMap.FootballMap (0.006824s)
+[2021.03.22-09.18.45:910][121]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.03.22-09.18.45:912][121]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_2_FootballMap.FootballMap up for play (max tick rate 0) at 2021.03.22-10.18.45
+[2021.03.22-09.18.45:912][121]LogWorld: Bringing up level for play took: 0.000826
+[2021.03.22-09.18.45:914][121]LogLoad: Took 0.073646 seconds to LoadMap(/Game/Project/Maps/UEDPIE_2_FootballMap)
+[2021.03.22-09.18.45:934][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.03.22-09.18.49:459][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.18.49:459][527]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_2_FootballMap
+[2021.03.22-09.18.49:460][527]LogSlate: Window 'ProjetFallGuys Preview [NetMode: Client 3] (64-bit/Windows) ' being destroyed
+[2021.03.22-09.18.49:461][527]LogWorld: UWorld::CleanupWorld for FootballMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.18.49:462][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.18.49:468][527]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_1_FootballMap
+[2021.03.22-09.18.49:468][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.18.49:468][527]LogSlate: Window 'ProjetFallGuys Preview [NetMode: Client 2] (64-bit/Windows) ' being destroyed
+[2021.03.22-09.18.49:469][527]LogWorld: UWorld::CleanupWorld for FootballMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.18.49:470][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.18.49:476][527]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_0_FootballMap
+[2021.03.22-09.18.49:477][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.18.49:477][527]LogWorld: UWorld::CleanupWorld for FootballMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.18.49:478][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.18.49:485][527]LogNet: World NetDriver shutdown IpNetDriver_25 [GameNetDriver]
+[2021.03.22-09.18.49:485][527]LogNet: DestroyNamedNetDriver IpNetDriver_25 [GameNetDriver]
+[2021.03.22-09.18.49:485][527]LogExit: GameNetDriver IpNetDriver_25 shut down
+[2021.03.22-09.18.49:486][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.22-09.18.49:490][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.18.49:509][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.18.49:549][527]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000227E100FD80), frame # 522527
+[2021.03.22-09.18.49:549][527]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000228AB667200), frame # 522527
+[2021.03.22-09.18.49:550][527]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000227E100CE00), frame # 522527
+[2021.03.22-09.18.49:550][527]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022800388C00), frame # 522527
+[2021.03.22-09.18.49:550][527]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022822CB74C0), frame # 522527
+[2021.03.22-09.18.49:550][527]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022817487200), frame # 522527
+[2021.03.22-09.18.49:552][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.03.22-09.18.49:583][528]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.03.22-09.18.49:583][528]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.03.22-09.18.49:583][528]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.03.22-09.18.50:645][651]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.22-09.18.50:662][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.22-09.18.50:662][651]PIE: New page: PIE session: PushAway (22 mars 2021 à 11:18:50)
+[2021.03.22-09.18.50:699][651]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_PushAway
+[2021.03.22-09.18.50:700][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001796s)
+[2021.03.22-09.18.50:701][651]LogAIModule: Creating AISystem for world PushAway
+[2021.03.22-09.18.50:701][651]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002281C2B5A00), frame # 522651
+[2021.03.22-09.18.50:701][651]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002286A8CE480), frame # 522651
+[2021.03.22-09.18.50:701][651]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2021.03.22-09.18.50:701][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/PushAway.PushAway to /Game/Project/Maps/UEDPIE_0_PushAway.PushAway (0.002896s)
+[2021.03.22-09.18.50:724][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.03.22-09.18.50:725][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.22-09.18.50:725][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.22-09.18.50:725][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.22-09.18.50:725][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.22-09.18.50:725][651]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.22-09.18.50:725][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.22-09.18.50:725][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.22-09.18.50:725][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.22-09.18.50:725][651]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.22-09.18.50:725][651]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.22-09.18.50:728][651]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.22-09.18.50:728][651]LogAudioMixer: Display: 1: FrontRight
+[2021.03.22-09.18.50:741][651]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2021.03.22-09.18.50:741][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.22-09.18.50:741][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.22-09.18.50:741][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.22-09.18.50:742][651]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.22-09.18.50:752][651]LogInit: FAudioDevice initialized.
+[2021.03.22-09.18.50:761][651]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.03.22-09.18.50:762][651]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_PushAway.PushAway up for play (max tick rate 0) at 2021.03.22-10.18.50
+[2021.03.22-09.18.50:762][651]LogWorld: Bringing up level for play took: 0.000541
+[2021.03.22-09.18.50:762][651]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.03.22-09.18.50:765][651]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.03.22-09.18.50:765][651]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.03.22-09.18.50:765][651]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.03.22-09.18.50:765][651]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.03.22-09.18.50:765][651]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.18.50:765][651]LogNet: GameNetDriver IpNetDriver_26 IpNetDriver listening on port 17777
+[2021.03.22-09.18.50:766][651]PIE: Server logged in
+[2021.03.22-09.18.50:767][651]PIE: Play in editor total start time 0,105 seconds.
+[2021.03.22-09.18.50:768][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.22-09.18.50:768][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.22-09.18.50:768][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.22-09.18.50:768][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.22-09.18.50:768][651]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.22-09.18.50:768][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.22-09.18.50:768][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.22-09.18.50:768][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.22-09.18.50:768][651]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.22-09.18.50:768][651]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.22-09.18.50:771][651]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.22-09.18.50:771][651]LogAudioMixer: Display: 1: FrontRight
+[2021.03.22-09.18.50:782][651]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2021.03.22-09.18.50:782][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.22-09.18.50:782][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.22-09.18.50:782][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.22-09.18.50:782][651]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.22-09.18.50:793][651]LogInit: FAudioDevice initialized.
+[2021.03.22-09.18.50:846][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.18.50:846][651]LogNet: Browse: 127.0.0.1:17777/Game/Project/Maps/FootballMap
+[2021.03.22-09.18.50:847][651]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.03.22-09.18.50:847][651]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.03.22-09.18.50:847][651]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.18.50:847][651]LogNet: Game client on port 17777, rate 10000
+[2021.03.22-09.18.50:850][651]PIE: Client logged in
+[2021.03.22-09.18.50:852][651]PIE: Play in editor total start time 0,19 seconds.
+[2021.03.22-09.18.50:853][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.22-09.18.50:853][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.22-09.18.50:853][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.22-09.18.50:853][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.22-09.18.50:853][651]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.22-09.18.50:853][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.22-09.18.50:853][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.22-09.18.50:853][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.22-09.18.50:854][651]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.22-09.18.50:854][651]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.22-09.18.50:856][651]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.22-09.18.50:856][651]LogAudioMixer: Display: 1: FrontRight
+[2021.03.22-09.18.50:867][651]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2021.03.22-09.18.50:867][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.22-09.18.50:867][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.22-09.18.50:867][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.22-09.18.50:868][651]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.22-09.18.50:879][651]LogInit: FAudioDevice initialized.
+[2021.03.22-09.18.50:929][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.18.50:930][651]LogNet: Browse: 127.0.0.1:17777/Game/Project/Maps/FootballMap
+[2021.03.22-09.18.50:930][651]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.03.22-09.18.50:930][651]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.03.22-09.18.50:930][651]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.18.50:930][651]LogNet: Game client on port 17777, rate 10000
+[2021.03.22-09.18.50:933][651]PIE: Client logged in
+[2021.03.22-09.18.50:934][651]PIE: Play in editor total start time 0,273 seconds.
+[2021.03.22-09.18.51:858][759]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56164
+[2021.03.22-09.18.51:858][759]LogHandshake: SendConnectChallenge. Timestamp: 1.221394, Cookie: 073169201003128097009038254031081045187248158004125144154171
+[2021.03.22-09.18.51:858][759]LogHandshake: SendChallengeResponse. Timestamp: 1.221394, Cookie: 073169201003128097009038254031081045187248158004125144154171
+[2021.03.22-09.18.51:866][760]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56164
+[2021.03.22-09.18.51:866][760]LogHandshake: SendChallengeAck. InCookie: 073169201003128097009038254031081045187248158004125144154171
+[2021.03.22-09.18.51:866][760]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56164
+[2021.03.22-09.18.51:867][760]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.18.51:867][760]LogNet: NotifyAcceptedConnection: Name: PushAway, TimeStamp: 03/22/21 10:18:51, [UNetConnection] RemoteAddr: 127.0.0.1:56164, Name: IpConnection_30, Driver: GameNetDriver IpNetDriver_26, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.18.51:867][760]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56164, Name: IpConnection_30, Driver: GameNetDriver IpNetDriver_26, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.18.51:867][760]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: PendingNetDriver IpNetDriver_27, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.18.51:874][761]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Project/Maps/UEDPIE_0_PushAway.PushAway: Accepted
+[2021.03.22-09.18.51:874][761]LogNet: Remote platform little endian=1
+[2021.03.22-09.18.51:874][761]LogNet: This platform little endian=1
+[2021.03.22-09.18.51:875][761]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.03.22-09.18.51:883][762]LogNet: Login request: ?Name=RTX-023-79C3471C4CBE2CF81A52B49DDDD5B3B1 userId: NULL:RTX-023-79C3471C4CBE2CF81A52B49DDDD5B3B1 platform: NULL
+[2021.03.22-09.18.51:883][762]LogNet: Welcomed by server (Level: /Game/Project/Maps/UEDPIE_0_PushAway, Game: /Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C)
+[2021.03.22-09.18.51:884][762]LogLoad: LoadMap: 127.0.0.1:17777/Game/Project/Maps/UEDPIE_0_PushAway?game=/Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C
+[2021.03.22-09.18.51:884][762]LogWorld: BeginTearingDown for /Temp/Untitled_15
+[2021.03.22-09.18.51:884][762]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.18.51:884][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.18.51:905][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.03.22-09.18.51:908][762]LogAIModule: Creating AISystem for world PushAway
+[2021.03.22-09.18.51:908][762]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022804121000), frame # 522762
+[2021.03.22-09.18.51:908][762]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002286A8CDBC0), frame # 522762
+[2021.03.22-09.18.51:909][762]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_1_PushAway.PushAway up for play (max tick rate 0) at 2021.03.22-10.18.51
+[2021.03.22-09.18.51:909][762]LogWorld: Bringing up level for play took: 0.000326
+[2021.03.22-09.18.51:909][762]LogLoad: Took 0.025780 seconds to LoadMap(/Game/Project/Maps/UEDPIE_0_PushAway)
+[2021.03.22-09.18.51:915][763]LogNet: Client netspeed is 10000
+[2021.03.22-09.18.51:915][763]LogNet: Join request: /Game/Project/Maps/FootballMap?Name=RTX-023-79C3471C4CBE2CF81A52B49DDDD5B3B1?SplitscreenCount=1
+[2021.03.22-09.18.51:915][763]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.18.51:917][763]LogNet: Join succeeded: RTX-023-79C3471C4CBE
+[2021.03.22-09.18.51:943][766]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56165
+[2021.03.22-09.18.51:943][766]LogHandshake: SendConnectChallenge. Timestamp: 1.306630, Cookie: 182053000245006226028034012069062030209069093112161232142023
+[2021.03.22-09.18.51:944][766]LogHandshake: SendChallengeResponse. Timestamp: 1.306630, Cookie: 182053000245006226028034012069062030209069093112161232142023
+[2021.03.22-09.18.51:952][767]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56165
+[2021.03.22-09.18.51:952][767]LogHandshake: SendChallengeAck. InCookie: 182053000245006226028034012069062030209069093112161232142023
+[2021.03.22-09.18.51:952][767]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56165
+[2021.03.22-09.18.51:953][767]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.03.22-09.18.51:953][767]LogNet: NotifyAcceptedConnection: Name: PushAway, TimeStamp: 03/22/21 10:18:51, [UNetConnection] RemoteAddr: 127.0.0.1:56165, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_26, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.18.51:953][767]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56165, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_26, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.18.51:954][767]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_29, Driver: PendingNetDriver IpNetDriver_28, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.03.22-09.18.51:961][768]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Project/Maps/UEDPIE_0_PushAway.PushAway: Accepted
+[2021.03.22-09.18.51:961][768]LogNet: Remote platform little endian=1
+[2021.03.22-09.18.51:961][768]LogNet: This platform little endian=1
+[2021.03.22-09.18.51:962][768]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.03.22-09.18.51:969][769]LogNet: Login request: ?Name=RTX-023-FB3F5DC046603B92EAD08086C44FC194 userId: NULL:RTX-023-FB3F5DC046603B92EAD08086C44FC194 platform: NULL
+[2021.03.22-09.18.51:970][769]LogNet: Welcomed by server (Level: /Game/Project/Maps/UEDPIE_0_PushAway, Game: /Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C)
+[2021.03.22-09.18.51:970][769]LogLoad: LoadMap: 127.0.0.1:17777/Game/Project/Maps/UEDPIE_0_PushAway?game=/Game/Project/Blueprints/BP_GameModeBase.BP_GameModeBase_C
+[2021.03.22-09.18.51:970][769]LogWorld: BeginTearingDown for /Temp/Untitled_16
+[2021.03.22-09.18.51:970][769]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.18.51:970][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.18.51:991][769]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.03.22-09.18.51:994][769]LogAIModule: Creating AISystem for world PushAway
+[2021.03.22-09.18.51:994][769]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022878728E00), frame # 522769
+[2021.03.22-09.18.51:994][769]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002286A8E1300), frame # 522769
+[2021.03.22-09.18.51:995][769]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_2_PushAway.PushAway up for play (max tick rate 0) at 2021.03.22-10.18.51
+[2021.03.22-09.18.51:995][769]LogWorld: Bringing up level for play took: 0.000295
+[2021.03.22-09.18.51:995][769]LogLoad: Took 0.025333 seconds to LoadMap(/Game/Project/Maps/UEDPIE_0_PushAway)
+[2021.03.22-09.18.52:002][770]LogNet: Client netspeed is 10000
+[2021.03.22-09.18.52:003][770]LogNet: Join request: /Game/Project/Maps/FootballMap?Name=RTX-023-FB3F5DC046603B92EAD08086C44FC194?SplitscreenCount=1
+[2021.03.22-09.18.52:003][770]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.18.52:004][770]LogNet: Join succeeded: RTX-023-FB3F5DC04660
+[2021.03.22-09.18.52:146][786]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.18.52:155][787]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.18.52:945][882]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.18.52:946][882]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.18.52:954][883]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.18.53:955][  3]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.03.22-09.18.59:840][659]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter2)
+[2021.03.22-09.19.00:647][719]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_0_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.02:092][844]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_1_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.02:216][854]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.10:651][648]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_0_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh1'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.12:094][800]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_1_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh1'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.12:219][813]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh1'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.17:748][364]LogEditorViewport: Clicking on Actor (LMB): DestroyableMap_C (DestroyableMap)
+[2021.03.22-09.19.20:655][692]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_0_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh2'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.22:100][850]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_1_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh2'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.22:225][865]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh2'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.27:215][362]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.27:215][362]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.27:215][362]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.30:823][756]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_0_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh3'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.32:273][930]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_1_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh3'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.32:399][945]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	DestroyableMap_C /Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2
+	Function /Game/Project/Blueprints/DestroyableMap.DestroyableMap_C:ExecuteUbergraph_DestroyableMap:01CA
+[2021.03.22-09.19.32:399][945]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  DestroyableMap Function:  Execute Ubergraph Destroyable Map Graph:  EventGraph Node:  Set Simulate Physics
+[2021.03.22-09.19.36:816][449]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.36:816][449]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.36:817][449]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.40:875][893]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_0_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh4'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.42:331][ 59]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_1_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh4'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.42:457][ 74]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	DestroyableMap_C /Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2
+	Function /Game/Project/Blueprints/DestroyableMap.DestroyableMap_C:ExecuteUbergraph_DestroyableMap:01CA
+[2021.03.22-09.19.42:458][ 74]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  DestroyableMap Function:  Execute Ubergraph Destroyable Map Graph:  EventGraph Node:  Set Simulate Physics
+[2021.03.22-09.19.43:393][171]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2021.03.22-09.19.46:639][509]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh1'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.46:640][509]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.46:640][509]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.46:640][509]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh1'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.46:640][509]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh1'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.47:764][641]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.47:764][641]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.48:300][703]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh1'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.48:301][703]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.48:301][703]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.48:301][703]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh1'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.48:301][703]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh1'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.51:105][993]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh2'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.51:106][993]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.51:106][993]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.51:106][993]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh1'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.51:107][993]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh1'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.51:107][993]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh2'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.51:107][993]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh2'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.51:441][ 31]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_0_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh5'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.52:897][165]PIE: Warning: Trying to simulate physics on ''/Game/Project/Maps/UEDPIE_1_PushAway.PushAway:PersistentLevel.DestroyableMap_2.StaticMesh5'' but it has ComplexAsSimple collision.
+[2021.03.22-09.19.53:022][180]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	DestroyableMap_C /Game/Project/Maps/UEDPIE_2_PushAway.PushAway:PersistentLevel.DestroyableMap_2
+	Function /Game/Project/Blueprints/DestroyableMap.DestroyableMap_C:ExecuteUbergraph_DestroyableMap:01CA
+[2021.03.22-09.19.53:022][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  DestroyableMap Function:  Execute Ubergraph Destroyable Map Graph:  EventGraph Node:  Set Simulate Physics
+[2021.03.22-09.20.03:428][315]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.03.22-09.20.03:429][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.20.03:430][315]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.03.22-09.20.03:430][315]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.03.22-09.20.03:460][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.20.03:460][315]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_2_PushAway
+[2021.03.22-09.20.03:460][315]LogSlate: Window 'ProjetFallGuys Preview [NetMode: Client 3] (64-bit/Windows) ' being destroyed
+[2021.03.22-09.20.03:462][315]LogWorld: UWorld::CleanupWorld for PushAway, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.20.03:462][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.20.03:466][315]LogNet: World NetDriver shutdown IpNetDriver_28 [GameNetDriver]
+[2021.03.22-09.20.03:466][315]LogNet: DestroyNamedNetDriver IpNetDriver_28 [GameNetDriver]
+[2021.03.22-09.20.03:466][315]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_29, Driver: GameNetDriver IpNetDriver_28, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-FB3F5DC046603B92EAD08086C44FC194, Channels: 11, Time: 2021.03.22-09.20.03
+[2021.03.22-09.20.03:466][315]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_29, Driver: GameNetDriver IpNetDriver_28, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-FB3F5DC046603B92EAD08086C44FC194
+[2021.03.22-09.20.03:467][315]LogExit: GameNetDriver IpNetDriver_28 shut down
+[2021.03.22-09.20.03:467][315]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_1_PushAway
+[2021.03.22-09.20.03:467][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.20.03:467][315]LogSlate: Window 'ProjetFallGuys Preview [NetMode: Client 2] (64-bit/Windows) ' being destroyed
+[2021.03.22-09.20.03:469][315]LogWorld: UWorld::CleanupWorld for PushAway, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.20.03:469][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.20.03:475][315]LogNet: World NetDriver shutdown IpNetDriver_27 [GameNetDriver]
+[2021.03.22-09.20.03:475][315]LogNet: DestroyNamedNetDriver IpNetDriver_27 [GameNetDriver]
+[2021.03.22-09.20.03:475][315]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: GameNetDriver IpNetDriver_27, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-79C3471C4CBE2CF81A52B49DDDD5B3B1, Channels: 11, Time: 2021.03.22-09.20.03
+[2021.03.22-09.20.03:475][315]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: GameNetDriver IpNetDriver_27, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-79C3471C4CBE2CF81A52B49DDDD5B3B1
+[2021.03.22-09.20.03:475][315]LogExit: GameNetDriver IpNetDriver_27 shut down
+[2021.03.22-09.20.03:475][315]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_0_PushAway
+[2021.03.22-09.20.03:476][315]LogWorld: UWorld::CleanupWorld for PushAway, bSessionEnded=true, bCleanupResources=true
+[2021.03.22-09.20.03:476][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.20.03:484][315]LogNet: World NetDriver shutdown IpNetDriver_26 [GameNetDriver]
+[2021.03.22-09.20.03:484][315]LogNet: DestroyNamedNetDriver IpNetDriver_26 [GameNetDriver]
+[2021.03.22-09.20.03:484][315]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56164, Name: IpConnection_30, Driver: GameNetDriver IpNetDriver_26, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-79C3471C4CBE2CF81A52B49DDDD5B3B1
+[2021.03.22-09.20.03:484][315]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56164, Name: IpConnection_30, Driver: GameNetDriver IpNetDriver_26, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-79C3471C4CBE2CF81A52B49DDDD5B3B1, Channels: 12, Time: 2021.03.22-09.20.03
+[2021.03.22-09.20.03:484][315]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56164, Name: IpConnection_30, Driver: GameNetDriver IpNetDriver_26, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:RTX-023-79C3471C4CBE2CF81A52B49DDDD5B3B1
+[2021.03.22-09.20.03:484][315]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56165, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_26, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:RTX-023-FB3F5DC046603B92EAD08086C44FC194
+[2021.03.22-09.20.03:484][315]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56165, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_26, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:RTX-023-FB3F5DC046603B92EAD08086C44FC194, Channels: 12, Time: 2021.03.22-09.20.03
+[2021.03.22-09.20.03:484][315]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56165, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_26, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:RTX-023-FB3F5DC046603B92EAD08086C44FC194
+[2021.03.22-09.20.03:484][315]LogExit: GameNetDriver IpNetDriver_26 shut down
+[2021.03.22-09.20.03:485][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.22-09.20.03:489][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.22-09.20.03:535][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.22-09.20.03:549][315]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002286A8E1300), frame # 530315
+[2021.03.22-09.20.03:549][315]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022878728E00), frame # 530315
+[2021.03.22-09.20.03:549][315]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002286A8CDBC0), frame # 530315
+[2021.03.22-09.20.03:549][315]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022804121000), frame # 530315
+[2021.03.22-09.20.03:550][315]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002286A8CE480), frame # 530315
+[2021.03.22-09.20.03:550][315]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002281C2B5A00), frame # 530315
+[2021.03.22-09.20.03:552][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.03.22-09.20.03:599][316]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.03.22-09.20.03:599][316]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.03.22-09.20.03:599][316]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.03.22-09.20.36:474][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.03.22-09.20.36:508][161]LogSavePackage: Moving '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/PushAway_Auto4AEC5FAFC404E83C7228C208BAAFA2C98.tmp' to '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/Autosaves/Game/Project/Maps/PushAway_Auto4.umap'
+[2021.03.22-09.20.36:509][161]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project/Maps/PushAway' took 0.055
+[2021.03.22-09.20.36:509][161]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.055
+[2021.03.22-09.20.36:509][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Project/Blueprints/DestroyableMap] ([1] browsable assets)...
+[2021.03.22-09.20.36:516][161]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Project/Blueprints/DestroyableMap.DestroyableMap]
+[2021.03.22-09.20.36:516][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/Blueprints/DestroyableMap]
+[2021.03.22-09.20.36:548][161]LogSavePackage: Moving '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/DestroyableMap_Auto4500E016A469C7E4D44B59FA3ED0889F5.tmp' to '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/Autosaves/Game/Project/Blueprints/DestroyableMap_Auto4.uasset'
+[2021.03.22-09.20.36:549][161]LogFileHelpers: Auto-saving content packages took 0.040
+[2021.03.22-09.20.54:451][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.22-09.20.54:476][297]LogSavePackage: Moving '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Saved/PushAway077EFCD34E9BD54DDE0D0E90A94CBDA1.tmp' to '../../../../../../Users/D.GEROUVILLE/Documents/GitHub/FallGuysNetwork/ProjetFallGuys/Content/Project/Maps/PushAway.umap'
+[2021.03.22-09.20.54:522][297]AssetCheck: New page: Asset Save: PushAway
+[2021.03.22-09.20.54:522][297]LogContentValidation: Display: Validating World /Game/Project/Maps/PushAway.PushAway
