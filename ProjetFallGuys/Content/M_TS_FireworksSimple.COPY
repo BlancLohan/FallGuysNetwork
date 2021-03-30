@@ -1,0 +1,252 @@
+Begin Object Class=/Script/Engine.Material Name="M_TS_FireworksSimple"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPower Name="MaterialExpressionPower_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionParticleRelativeTime Name="MaterialExpressionParticleRelativeTime_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionParticleColor Name="MaterialExpressionParticleColor_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_0"
+      DefaultValue=1.000000
+      ParameterName="FlickerAmount"
+      ExpressionGUID=646735E84ECB3FF5F088F4A1F8D1A9EE
+      MaterialExpressionEditorX=-448
+      MaterialExpressionEditorY=416
+      MaterialExpressionGuid=D545A704440A130A607D1AB6B8132392
+      Material=Material'"M_TS_FireworksSimple"'
+   End Object
+   Begin Object Name="MaterialExpressionPower_0"
+      Base=(Expression=MaterialExpressionMaterialFunctionCall'"M_TS_FireworksSimple:MaterialExpressionMaterialFunctionCall_7"')
+      ConstExponent=4.000000
+      MaterialExpressionEditorX=-704
+      MaterialExpressionEditorY=480
+      MaterialExpressionGuid=B7D2D56448B5591F1DC29CAB11C65775
+      Material=Material'"M_TS_FireworksSimple"'
+   End Object
+   Begin Object Name="MaterialExpressionParticleRelativeTime_1"
+      MaterialExpressionEditorX=-1568
+      MaterialExpressionEditorY=544
+      MaterialExpressionGuid=74084D6A449F2183E12EA7A75D9AE237
+      Material=Material'"M_TS_FireworksSimple"'
+   End Object
+   Begin Object Name="MaterialExpressionParticleColor_0"
+      MaterialExpressionEditorX=-904
+      MaterialExpressionEditorY=65
+      MaterialExpressionGuid=1731C8F044611BED30F05FBCB640F658
+      Material=Material'"M_TS_FireworksSimple"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_4"
+      A=(Expression=MaterialExpressionMultiply'"M_TS_FireworksSimple:MaterialExpressionMultiply_3"')
+      B=(Expression=MaterialExpressionMaterialFunctionCall'"M_TS_FireworksSimple:MaterialExpressionMaterialFunctionCall_10"',OutputIndex=1)
+      MaterialExpressionEditorX=-462
+      MaterialExpressionEditorY=1113
+      MaterialExpressionGuid=7134BEF349A9535AFEFB9BB105BDF6DE
+      Material=Material'"M_TS_FireworksSimple"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_3"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'"M_TS_FireworksSimple:MaterialExpressionMaterialFunctionCall_6"',OutputIndex=1)
+      B=(Expression=MaterialExpressionMaterialFunctionCall'"M_TS_FireworksSimple:MaterialExpressionMaterialFunctionCall_11"',OutputIndex=1)
+      MaterialExpressionEditorX=-638
+      MaterialExpressionEditorY=863
+      MaterialExpressionGuid=9D654DA84F7591A2649C719F771B9B4C
+      Material=Material'"M_TS_FireworksSimple"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_2"
+      A=(Expression=MaterialExpressionParticleColor'"M_TS_FireworksSimple:MaterialExpressionParticleColor_0"',OutputIndex=4,Mask=1,MaskA=1)
+      B=(Expression=MaterialExpressionPower'"M_TS_FireworksSimple:MaterialExpressionPower_0"')
+      MaterialExpressionEditorX=-504
+      MaterialExpressionEditorY=493
+      MaterialExpressionGuid=7C2F0EF74E7C27FCBC37488D2F970BC3
+      Material=Material'"M_TS_FireworksSimple"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1"
+      A=(Expression=MaterialExpressionMultiply'"M_TS_FireworksSimple:MaterialExpressionMultiply_2"')
+      B=(Expression=MaterialExpressionMultiply'"M_TS_FireworksSimple:MaterialExpressionMultiply_4"')
+      MaterialExpressionEditorX=-335
+      MaterialExpressionEditorY=526
+      MaterialExpressionGuid=9F6F2B85432E4FE9EF137594241CFDE6
+      Material=Material'"M_TS_FireworksSimple"'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_7"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.RadialGradient"'
+      FunctionInputs(0)=(ExpressionInputId=CEEA5BA9449383F572AE4AB28EEEB8CB,Input=(InputName="Radius"))
+      FunctionInputs(1)=(ExpressionInputId=827737814B14AF55226283A38DA0D7B0,Input=(OutputIndex=-1,InputName="CenterPosition"))
+      FunctionOutputs(0)=(ExpressionOutputId=2BA4BCB6421078C402CD78B092570BD9,Output=(OutputName="RadialGradient"))
+      MaterialExpressionEditorX=-976
+      MaterialExpressionEditorY=480
+      MaterialExpressionGuid=2AB509104C9FB58FA62F369D0E21A82F
+      Material=Material'"M_TS_FireworksSimple"'
+      Outputs(0)=(OutputName="RadialGradient")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_6"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions02/Utility/LinearSine.LinearSine"'
+      FunctionInputs(0)=(ExpressionInputId=C9C808EE4912AA9859337E83D302D402,Input=(Expression=MaterialExpressionAdd'"M_TS_FireworksSimple:MaterialExpressionAdd_0"',InputName="Value"))
+      FunctionInputs(1)=(ExpressionInputId=FAD92ADF434D926F665BEC823F253B89,Input=(Expression=MaterialExpressionConstant'"M_TS_FireworksSimple:MaterialExpressionConstant_3"',InputName="Period"))
+      FunctionInputs(2)=(ExpressionInputId=E332B84E475A7B36DA77ABABC30E65CF,Input=(OutputIndex=-1,InputName="-1 to 1"))
+      FunctionInputs(3)=(ExpressionInputId=73285A7442E003A1630ED5B38841E1EA,Input=(OutputIndex=-1,InputName="Sine Phase"))
+      FunctionOutputs(0)=(ExpressionOutputId=2C0C1F2F4EF1D315FF5F4F88F41E808A,Output=(OutputName="Linear Sine"))
+      FunctionOutputs(1)=(ExpressionOutputId=A05842B34E6A37890B7183860C77DA2A,Output=(OutputName="Rounded Linear Sine "))
+      FunctionOutputs(2)=(ExpressionOutputId=EF2E189F4DD2FCD7D25C548B6862F818,Output=(OutputName="Direction"))
+      MaterialExpressionEditorX=-976
+      MaterialExpressionEditorY=720
+      MaterialExpressionGuid=06DDD65D42E80F8C9C50DD9EE0E50CF5
+      Material=Material'"M_TS_FireworksSimple"'
+      Outputs(0)=(OutputName="Linear Sine")
+      Outputs(1)=(OutputName="Rounded Linear Sine ")
+      Outputs(2)=(OutputName="Direction")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_11"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions02/Utility/LinearSine.LinearSine"'
+      FunctionInputs(0)=(ExpressionInputId=C9C808EE4912AA9859337E83D302D402,Input=(Expression=MaterialExpressionAdd'"M_TS_FireworksSimple:MaterialExpressionAdd_5"',InputName="Value"))
+      FunctionInputs(1)=(ExpressionInputId=FAD92ADF434D926F665BEC823F253B89,Input=(Expression=MaterialExpressionConstant'"M_TS_FireworksSimple:MaterialExpressionConstant_7"',InputName="Period"))
+      FunctionInputs(2)=(ExpressionInputId=E332B84E475A7B36DA77ABABC30E65CF,Input=(OutputIndex=-1,InputName="-1 to 1"))
+      FunctionInputs(3)=(ExpressionInputId=73285A7442E003A1630ED5B38841E1EA,Input=(OutputIndex=-1,InputName="Sine Phase"))
+      FunctionOutputs(0)=(ExpressionOutputId=2C0C1F2F4EF1D315FF5F4F88F41E808A,Output=(OutputName="Linear Sine"))
+      FunctionOutputs(1)=(ExpressionOutputId=A05842B34E6A37890B7183860C77DA2A,Output=(OutputName="Rounded Linear Sine "))
+      FunctionOutputs(2)=(ExpressionOutputId=EF2E189F4DD2FCD7D25C548B6862F818,Output=(OutputName="Direction"))
+      MaterialExpressionEditorX=-992
+      MaterialExpressionEditorY=1232
+      MaterialExpressionGuid=70470899433AF1DA490F12ABABC47542
+      Material=Material'"M_TS_FireworksSimple"'
+      Outputs(0)=(OutputName="Linear Sine")
+      Outputs(1)=(OutputName="Rounded Linear Sine ")
+      Outputs(2)=(OutputName="Direction")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_10"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions02/Utility/LinearSine.LinearSine"'
+      FunctionInputs(0)=(ExpressionInputId=C9C808EE4912AA9859337E83D302D402,Input=(Expression=MaterialExpressionAdd'"M_TS_FireworksSimple:MaterialExpressionAdd_4"',InputName="Value"))
+      FunctionInputs(1)=(ExpressionInputId=FAD92ADF434D926F665BEC823F253B89,Input=(Expression=MaterialExpressionConstant'"M_TS_FireworksSimple:MaterialExpressionConstant_6"',InputName="Period"))
+      FunctionInputs(2)=(ExpressionInputId=E332B84E475A7B36DA77ABABC30E65CF,Input=(OutputIndex=-1,InputName="-1 to 1"))
+      FunctionInputs(3)=(ExpressionInputId=73285A7442E003A1630ED5B38841E1EA,Input=(OutputIndex=-1,InputName="Sine Phase"))
+      FunctionOutputs(0)=(ExpressionOutputId=2C0C1F2F4EF1D315FF5F4F88F41E808A,Output=(OutputName="Linear Sine"))
+      FunctionOutputs(1)=(ExpressionOutputId=A05842B34E6A37890B7183860C77DA2A,Output=(OutputName="Rounded Linear Sine "))
+      FunctionOutputs(2)=(ExpressionOutputId=EF2E189F4DD2FCD7D25C548B6862F818,Output=(OutputName="Direction"))
+      MaterialExpressionEditorX=-992
+      MaterialExpressionEditorY=960
+      MaterialExpressionGuid=637C48CC44D1430B436F30963490A062
+      Material=Material'"M_TS_FireworksSimple"'
+      Outputs(0)=(OutputName="Linear Sine")
+      Outputs(1)=(OutputName="Rounded Linear Sine ")
+      Outputs(2)=(OutputName="Direction")
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_0"
+      A=(Expression=MaterialExpressionMultiply'"M_TS_FireworksSimple:MaterialExpressionMultiply_2"')
+      B=(Expression=MaterialExpressionMultiply'"M_TS_FireworksSimple:MaterialExpressionMultiply_1"')
+      Alpha=(Expression=MaterialExpressionScalarParameter'"M_TS_FireworksSimple:MaterialExpressionScalarParameter_0"')
+      MaterialExpressionEditorX=-274
+      MaterialExpressionEditorY=342
+      MaterialExpressionGuid=C189178740FB59702634B6A13B15D5A4
+      Material=Material'"M_TS_FireworksSimple"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_7"
+      R=0.242400
+      MaterialExpressionEditorX=-1328
+      MaterialExpressionEditorY=1296
+      MaterialExpressionGuid=F504E459449B09464065458EAC7BFD9F
+      Material=Material'"M_TS_FireworksSimple"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_6"
+      R=0.124800
+      MaterialExpressionEditorX=-1376
+      MaterialExpressionEditorY=1008
+      MaterialExpressionGuid=42D794E84423FEC338F6A3BE1A6DDB53
+      Material=Material'"M_TS_FireworksSimple"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_3"
+      R=0.050000
+      MaterialExpressionEditorX=-1216
+      MaterialExpressionEditorY=784
+      MaterialExpressionGuid=3BB313134818779A614656BF5E051D1E
+      Material=Material'"M_TS_FireworksSimple"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_5"
+      A=(Expression=MaterialExpressionParticleRelativeTime'"M_TS_FireworksSimple:MaterialExpressionParticleRelativeTime_1"')
+      B=(Expression=MaterialExpressionConstant'"M_TS_FireworksSimple:MaterialExpressionConstant_7"')
+      MaterialExpressionEditorX=-1127
+      MaterialExpressionEditorY=1181
+      MaterialExpressionGuid=293675C34FBF4FC3CB21FCB15C8C1ECB
+      Material=Material'"M_TS_FireworksSimple"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_4"
+      A=(Expression=MaterialExpressionParticleRelativeTime'"M_TS_FireworksSimple:MaterialExpressionParticleRelativeTime_1"')
+      B=(Expression=MaterialExpressionConstant'"M_TS_FireworksSimple:MaterialExpressionConstant_6"')
+      MaterialExpressionEditorX=-1179
+      MaterialExpressionEditorY=957
+      MaterialExpressionGuid=E61BC77B4FC6574FD410DA9CB5C08830
+      Material=Material'"M_TS_FireworksSimple"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_0"
+      A=(Expression=MaterialExpressionParticleRelativeTime'"M_TS_FireworksSimple:MaterialExpressionParticleRelativeTime_1"')
+      B=(Expression=MaterialExpressionConstant'"M_TS_FireworksSimple:MaterialExpressionConstant_3"')
+      MaterialExpressionEditorX=-1139
+      MaterialExpressionEditorY=642
+      MaterialExpressionGuid=8886D97E4830CD484AC576901E6A73EB
+      Material=Material'"M_TS_FireworksSimple"'
+   End Object
+   EmissiveColor=(Expression=MaterialExpressionParticleColor'"MaterialExpressionParticleColor_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Opacity=(Expression=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_0"')
+   BlendMode=BLEND_Translucent
+   ShadingModel=MSM_Unlit
+   ShadingModels=(ShadingModelField=1)
+   bEnableResponsiveAA=True
+   bUsedWithParticleSprites=True
+   bUsedWithStaticLighting=True
+   Expressions(0)=MaterialExpressionParticleColor'"MaterialExpressionParticleColor_0"'
+   Expressions(1)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_0"'
+   Expressions(2)=MaterialExpressionPower'"MaterialExpressionPower_0"'
+   Expressions(3)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_7"'
+   Expressions(4)=MaterialExpressionMultiply'"MaterialExpressionMultiply_2"'
+   Expressions(5)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_6"'
+   Expressions(6)=MaterialExpressionMultiply'"MaterialExpressionMultiply_1"'
+   Expressions(7)=MaterialExpressionConstant'"MaterialExpressionConstant_3"'
+   Expressions(8)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_10"'
+   Expressions(9)=MaterialExpressionConstant'"MaterialExpressionConstant_6"'
+   Expressions(10)=MaterialExpressionMultiply'"MaterialExpressionMultiply_3"'
+   Expressions(11)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_11"'
+   Expressions(12)=MaterialExpressionConstant'"MaterialExpressionConstant_7"'
+   Expressions(13)=MaterialExpressionMultiply'"MaterialExpressionMultiply_4"'
+   Expressions(14)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_0"'
+   Expressions(15)=MaterialExpressionParticleRelativeTime'"MaterialExpressionParticleRelativeTime_1"'
+   Expressions(16)=MaterialExpressionAdd'"MaterialExpressionAdd_0"'
+   Expressions(17)=MaterialExpressionAdd'"MaterialExpressionAdd_4"'
+   Expressions(18)=MaterialExpressionAdd'"MaterialExpressionAdd_5"'
+   StateId=98AF2B8841FF61B035473099AAA949FA
+   CachedExpressionData=(Parameters=(RuntimeEntries[0]=(NameHashes=(1910202602263101096),ParameterInfos=((Name="FlickerAmount")),ExpressionGuids=(646735E84ECB3FF5F088F4A1F8D1A9EE),Overrides=(False)),ScalarValues=(1.000000),ScalarMinMaxValues=((X=0.000000,Y=0.000000)),ScalarCurveValues=(None),ScalarCurveAtlasValues=(None)),FunctionInfos=((StateId=21C19F2B4369E78682888B9A825C701A,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.RadialGradient"'),(StateId=8AEA8FB34033A6EE275AFFBB348D9CAD,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions02/Utility/LinearSine.LinearSine"'),(StateId=8AEA8FB34033A6EE275AFFBB348D9CAD,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions02/Utility/LinearSine.LinearSine"'),(StateId=8AEA8FB34033A6EE275AFFBB348D9CAD,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions02/Utility/LinearSine.LinearSine"')),QualityLevelsUsed=(False,False,False,False))
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=1EDC61EA4E730455A3E309A201258204
+End Object

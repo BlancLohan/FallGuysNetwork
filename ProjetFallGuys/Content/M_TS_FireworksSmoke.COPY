@@ -1,0 +1,139 @@
+Begin Object Class=/Script/Engine.Material Name="M_TS_FireworksSmoke"
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNoise Name="MaterialExpressionNoise_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionParticleColor Name="MaterialExpressionParticleColor_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTime Name="MaterialExpressionTime_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1"
+      A=(Expression=MaterialExpressionTime'"M_TS_FireworksSmoke:MaterialExpressionTime_0"')
+      B=(Expression=MaterialExpressionConstant3Vector'"M_TS_FireworksSmoke:MaterialExpressionConstant3Vector_0"')
+      MaterialExpressionEditorX=-512
+      MaterialExpressionEditorY=544
+      MaterialExpressionGuid=DA3FAB6D4449DD187FCABBBCF4EE5275
+      Material=Material'"M_TS_FireworksSmoke"'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_8"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.RadialGradient"'
+      FunctionInputs(0)=(ExpressionInputId=CEEA5BA9449383F572AE4AB28EEEB8CB,Input=(OutputIndex=-1,InputName="Radius"))
+      FunctionInputs(1)=(ExpressionInputId=827737814B14AF55226283A38DA0D7B0,Input=(OutputIndex=-1,InputName="CenterPosition"))
+      FunctionOutputs(0)=(ExpressionOutputId=2BA4BCB6421078C402CD78B092570BD9,Output=(OutputName="RadialGradient"))
+      MaterialExpressionEditorX=-736
+      MaterialExpressionEditorY=256
+      MaterialExpressionGuid=899FCA3349A67ACD231A09AB906C8A91
+      Material=Material'"M_TS_FireworksSmoke"'
+      Outputs(0)=(OutputName="RadialGradient")
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_0"
+      Constant=(R=0.100000,G=0.100000,B=0.100000,A=0.000000)
+      MaterialExpressionEditorX=-697
+      MaterialExpressionEditorY=679
+      MaterialExpressionGuid=24ABAA6540295463B35716947E09413D
+      Material=Material'"M_TS_FireworksSmoke"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_2"
+      MaterialExpressionEditorX=-176
+      MaterialExpressionEditorY=48
+      MaterialExpressionGuid=492D016540D8C9ABA43C558623F3B857
+      Material=Material'"M_TS_FireworksSmoke"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1"
+      R=1.000000
+      MaterialExpressionEditorX=-176
+      MaterialExpressionEditorY=112
+      MaterialExpressionGuid=F67F54C44C96D55020D18796192F8AFA
+      Material=Material'"M_TS_FireworksSmoke"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_2"
+      A=(Expression=MaterialExpressionParticleColor'"M_TS_FireworksSmoke:MaterialExpressionParticleColor_1"',OutputIndex=4,Mask=1,MaskA=1)
+      B=(Expression=MaterialExpressionMaterialFunctionCall'"M_TS_FireworksSmoke:MaterialExpressionMaterialFunctionCall_8"')
+      MaterialExpressionEditorX=-392
+      MaterialExpressionEditorY=202
+      MaterialExpressionGuid=4515512E44D209BB3A86FE84CC8C1096
+      Material=Material'"M_TS_FireworksSmoke"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_3"
+      A=(Expression=MaterialExpressionMultiply'"M_TS_FireworksSmoke:MaterialExpressionMultiply_2"')
+      B=(Expression=MaterialExpressionNoise'"M_TS_FireworksSmoke:MaterialExpressionNoise_0"')
+      MaterialExpressionEditorX=-272
+      MaterialExpressionEditorY=328
+      MaterialExpressionGuid=DD0CFC9349CF9B3F474B17930F8A58EE
+      Material=Material'"M_TS_FireworksSmoke"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_4"
+      A=(Expression=MaterialExpressionMultiply'"M_TS_FireworksSmoke:MaterialExpressionMultiply_3"')
+      ConstB=0.150000
+      MaterialExpressionEditorX=-120
+      MaterialExpressionEditorY=314
+      MaterialExpressionGuid=E33C6056433137C0818B428BE527536E
+      Material=Material'"M_TS_FireworksSmoke"'
+   End Object
+   Begin Object Name="MaterialExpressionNoise_0"
+      Scale=0.002000
+      bTurbulence=False
+      Levels=1
+      OutputMin=0.100000
+      LevelScale=2.500000
+      MaterialExpressionEditorX=-544
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=0B8463E742D6AF0A22419589EE788931
+      Material=Material'"M_TS_FireworksSmoke"'
+   End Object
+   Begin Object Name="MaterialExpressionParticleColor_1"
+      MaterialExpressionEditorX=-672
+      MaterialExpressionEditorY=16
+      MaterialExpressionGuid=5DE1825142AF8A2582BDCCB28BD6D32A
+      Material=Material'"M_TS_FireworksSmoke"'
+   End Object
+   Begin Object Name="MaterialExpressionTime_0"
+      MaterialExpressionEditorX=-688
+      MaterialExpressionEditorY=544
+      MaterialExpressionGuid=1068955642BAC67BB85A1C89E6E91FE1
+      Material=Material'"M_TS_FireworksSmoke"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   BaseColor=(Expression=MaterialExpressionParticleColor'"MaterialExpressionParticleColor_1"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Metallic=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_2"')
+   Specular=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_2"')
+   Roughness=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_1"')
+   Opacity=(Expression=MaterialExpressionMultiply'"MaterialExpressionMultiply_4"')
+   BlendMode=BLEND_Translucent
+   TranslucencyDirectionalLightingIntensity=0.200000
+   bGenerateSphericalParticleNormals=True
+   bUsedWithParticleSprites=True
+   bFullyRough=True
+   Expressions(0)=MaterialExpressionParticleColor'"MaterialExpressionParticleColor_1"'
+   Expressions(1)=MaterialExpressionConstant'"MaterialExpressionConstant_2"'
+   Expressions(2)=MaterialExpressionConstant'"MaterialExpressionConstant_1"'
+   Expressions(3)=MaterialExpressionMultiply'"MaterialExpressionMultiply_3"'
+   Expressions(4)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_8"'
+   Expressions(5)=MaterialExpressionMultiply'"MaterialExpressionMultiply_2"'
+   Expressions(6)=MaterialExpressionNoise'"MaterialExpressionNoise_0"'
+   Expressions(7)=MaterialExpressionTime'"MaterialExpressionTime_0"'
+   Expressions(8)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_0"'
+   Expressions(9)=MaterialExpressionMultiply'"MaterialExpressionMultiply_1"'
+   Expressions(10)=MaterialExpressionMultiply'"MaterialExpressionMultiply_4"'
+   StateId=F7360A0A40BA8F27DBC643B695347B25
+   CachedExpressionData=(FunctionInfos=((StateId=21C19F2B4369E78682888B9A825C701A,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.RadialGradient"')),QualityLevelsUsed=(False,False,False,False))
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_1"'
+   LightingGuid=FDE841D34B25978FDBEFB580478C4B79
+End Object
